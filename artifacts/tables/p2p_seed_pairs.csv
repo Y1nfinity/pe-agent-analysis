@@ -1,0 +1,453 @@
+Entry_DealID,Entry_Company,Entry_DealDate,Entry_DealSize,Entry_DealType,Entry_DealType2,Entry_DealType3,Exit_DealID,Exit_Company,Exit_DealDate,Exit_DealSize,Exit_DealType,Exit_DealType2,Exit_DealType3,HoldingYears,AbsDaysAfter
+10217-44T,Energy Future Holdings,2007-10-10,45000.0,Buyout/LBO,Public to Private,,90359-83T,Energy Future Holdings,2018-03-09,9450.0,Merger/Acquisition,,,10.412046543463381,3803
+192262-69T,X (Social/Platform Software),2022-10-27,38184.79,Buyout/LBO,Public to Private,Management Buyout,289730-89T,X (Social/Platform Software),2025-03-28,33000.0,Merger/Acquisition,,,2.4175222450376452,883
+10215-46T,First Data,2007-09-24,29000.0,Buyout/LBO,Public to Private,,53879-23T,First Data,2015-10-15,2560.0,IPO,Debt Repayment,,8.057494866529774,2943
+24443-74T,The Kraft Heinz (NAS: KHC),2013-02-14,28000.0,Buyout/LBO,Public to Private,,58462-12T,The Kraft Heinz (NAS: KHC),2015-07-02,,Reverse Merger,,,2.3764544832306638,868
+10207-54T,Alltel,2007-11-16,27500.0,Buyout/LBO,Public to Private,,11613-34T,Alltel,2009-01-09,28100.0,Merger/Acquisition,,,1.1498973305954825,420
+10305-01T,Hilton Worldwide Holdings (NYS: HLT),2007-06-01,26100.0,Buyout/LBO,Public to Private,,18244-54T,Hilton Worldwide Holdings (NYS: HLT),2013-12-12,2352.81,IPO,,,6.532511978097194,2386
+23881-42T,Dell Technologies (NYS: DELL),2013-10-29,24900.0,Buyout/LBO,Public to Private,Management Buyout,243580-06T,Dell Technologies (NYS: DELL),2018-12-28,,Reverse Merger,,,5.163586584531143,1886
+10359-01T,Freescale Semiconductor,2006-11-01,17600.0,Buyout/LBO,Public to Private,,17123-14T,Freescale Semiconductor,2011-05-26,783.0,IPO,,,4.563997262149213,1667
+10220-50T,Kinder Morgan (NYS: KMI),2007-05-29,14700.0,Buyout/LBO,Public to Private,Management Buyout,243605-89T,Kinder Morgan (NYS: KMI),2011-02-11,2864.0,IPO,,,3.707049965776865,1354
+44881-03T,Keurig Dr Pepper (NAS: KDP),2016-03-03,13900.0,Buyout/LBO,Public to Private,,243609-67T,Keurig Dr Pepper (NAS: KDP),2018-07-09,,Reverse Merger,,,2.349075975359343,858
+10815-58T,Archstone-Smith,2007-10-05,13500.0,Buyout/LBO,Public to Private,,19126-27T,Archstone-Smith,2013-02-27,16000.0,Merger/Acquisition,,,5.3990417522245036,1972
+10248-94T,Biomet,2007-09-25,11400.0,Buyout/LBO,Public to Private,,33318-73T,Biomet,2015-06-24,1335.0,Merger/Acquisition,,,7.745379876796714,2829
+10347-31T,FIS Data Systems,2005-08-11,11400.0,Buyout/LBO,Public to Private,,52500-97T,FIS Data Systems,2015-11-30,12460.1,Merger/Acquisition,,,10.302532511978097,3763
+10281-61T,Aramark (NYS: ARMK),2007-08-26,8300.0,Buyout/LBO,Public to Private,Management Buyout,26954-83T,Aramark (NYS: ARMK),2013-12-12,725.0,IPO,,,6.297056810403833,2300
+10249-93T,Avaya,2007-10-26,8200.0,Buyout/LBO,Public to Private,,98898-85T,Avaya,2018-01-17,,IPO,,,10.22861054072553,3736
+231214-96T,Tribune Media,2007-12-20,8200.0,Buyout/LBO,Public to Private,,111683-44T,Tribune Media,2019-09-19,7187.0,Merger/Acquisition,,,11.748117727583846,4291
+29061-46T,CDW (NAS: CDW),2007-10-12,7332.6,Buyout/LBO,Public to Private,,29061-82T,CDW (NAS: CDW),2013-06-27,395.25,IPO,,,5.708418891170431,2085
+10197-46T,Elizabeth Manor Healthcare and Rehabilitation Center,2007-12-01,7028.24,Buyout/LBO,Public to Private,,102317-14T,Elizabeth Manor Healthcare and Rehabilitation Center,2018-04-01,7100.0,Merger/Acquisition,,,10.33264887063655,3774
+66341-80T,ADT (IT Security Company) (NYS: ADT),2016-05-02,7000.0,Buyout/LBO,Public to Private,,99128-98T,ADT (IT Security Company) (NYS: ADT),2018-01-19,1470.0,IPO,,,1.7166324435318274,627
+29279-98T,Dollar General (NYS: DG),2007-06-01,6920.0,Buyout/LBO,Public to Private,,29280-16T,Dollar General (NYS: DG),2009-11-13,716.1,IPO,,,2.4531143052703626,896
+110217-34T,Dun & Bradstreet Holdings (NYS: DNB),2019-02-08,6900.0,Buyout/LBO,Public to Private,,137835-64T,Dun & Bradstreet Holdings (NYS: DNB),2020-07-01,1722.65,IPO,,,1.3935660506502396,509
+10199-17T,Nuveen,2007-11-13,6249.83,Buyout/LBO,Public to Private,,33014-26T,Nuveen,2014-10-01,6250.0,Merger/Acquisition,,,6.882956878850103,2514
+10156-33T,Red Rock Resorts (NAS: RRR),2007-11-07,6240.0,Buyout/LBO,Public to Private,,59278-60T,Red Rock Resorts (NAS: RRR),2016-04-27,527.57,IPO,,,8.470910335386721,3094
+10366-21T,Michaels Stores,2006-10-31,6000.0,Buyout/LBO,Public to Private,,33561-73T,Michaels Stores,2014-06-27,1587.22,IPO,,,7.655030800821355,2796
+54159-58T,Strategic Hotels & Resorts,2015-12-11,6000.0,Buyout/LBO,Public to Private,,67611-16T,Strategic Hotels & Resorts,2016-09-29,6500.0,Merger/Acquisition,,,0.8021902806297057,293
+124793-20T,Tech Data,2020-06-30,6000.0,Buyout/LBO,Public to Private,,168981-22T,Tech Data,2021-09-01,7224.4,Merger/Acquisition,,,1.1718001368925393,428
+10209-07T,The Terminix International Company,2007-07-24,5500.0,Buyout/LBO,Public to Private,,32484-52T,The Terminix International Company,2014-06-26,610.3,IPO,,,6.924024640657084,2529
+97430-05T,Del Monte Foods,2011-03-08,5311.01,Buyout/LBO,Public to Private,,26521-84T,Del Monte Foods,2014-02-18,1675.0,Merger/Acquisition,,,2.951403148528405,1078
+17672-32T,Big Heart Pet Brands,2011-03-08,5300.0,Buyout/LBO,Secondary Buyout,Public to Private,45162-01T,Big Heart Pet Brands,2015-03-23,11300.0,Merger/Acquisition,,,4.041067761806982,1476
+10156-78T,Dayforce (Business/Productivity Software) (NYS: DAY),2007-11-09,5300.0,Buyout/LBO,Secondary Buyout,Public to Private,243609-22T,Dayforce (Business/Productivity Software) (NYS: DAY),2018-04-26,531.3,IPO,PIPE,,10.461327857631758,3821
+44860-42T,Informatica (NYS: INFA),2015-08-06,5300.0,Buyout/LBO,Secondary Buyout,Public to Private,181075-51T,Informatica (NYS: INFA),2021-10-27,841.0,IPO,,,6.225872689938399,2274
+10306-99T,Sabre Corporation (NAS: SABR),2007-03-30,5300.0,Buyout/LBO,Public to Private,,31079-08T,Sabre Corporation (NAS: SABR),2014-04-17,627.2,IPO,PIPE,,7.049965776865161,2575
+10415-80T,Neiman Marcus Group,2005-10-06,5100.0,Buyout/LBO,Public to Private,,265970-62T,Neiman Marcus Group,2024-12-23,2700.0,Merger/Acquisition,,,19.21423682409309,7018
+16029-19T,IMS Health Holdings,2010-02-26,5081.15,Buyout/LBO,Public to Private,,30197-80T,IMS Health Holdings,2013-05-09,947.37,IPO,,,3.1978097193702943,1168
+16971-85T,Gates Industrial Corporation (NYS: GTES),2010-09-30,5000.0,Buyout/LBO,Public to Private,,99302-68T,Gates Industrial Corporation (NYS: GTES),2018-01-25,731.5,IPO,,,7.321013004791239,2674
+26224-93T,Smithfield Foods (NAS: SFD),2013-09-26,4700.0,Buyout/LBO,Add-on,Public to Private,266861-17T,Smithfield Foods (NAS: SFD),2025-01-28,521.74,IPO,,,11.340177960301164,4142
+58943-89T,SolarWinds,2016-02-05,4600.0,Buyout/LBO,Public to Private,,112057-21T,SolarWinds,2018-10-19,500.0,IPO,,,2.702258726899384,987
+22572-55T,Gardner Denver,2013-07-31,4564.15,Buyout/LBO,Public to Private,,83132-92T,Gardner Denver,2017-05-12,826.0,IPO,Debt Repayment,,3.780971937029432,1381
+11492-74T,Orbitz,2006-08-24,4300.0,Buyout/LBO,Public to Private,,11475-46T,Orbitz,2007-07-20,510.0,IPO,,,0.9034907597535934,330
+73904-59T,Rackspace Technology (NAS: RXT),2016-11-03,4300.0,Buyout/LBO,Public to Private,,135301-69T,Rackspace Technology (NAS: RXT),2020-08-05,703.5,IPO,,,3.753593429158111,1371
+89335-00T,Hayward Holdings (NYS: HAYW),2017-08-04,4090.07,Buyout/LBO,Public to Private,Management Buyout,166979-71T,Hayward Holdings (NYS: HAYW),2021-03-12,684.72,IPO,,,3.6030116358658453,1316
+46581-58T,Life Time Group Holdings (NYS: LTH),2015-06-10,4060.0,Buyout/LBO,Public to Private,Management Buyout,180083-17T,Life Time Group Holdings (NYS: LTH),2021-10-07,702.0,IPO,,,6.327173169062286,2311
+59670-28T,Lexmark International,2016-11-29,4000.0,Buyout/LBO,Public to Private,,273161-53T,Lexmark International,2025-07-01,1500.0,Merger/Acquisition,,,8.58590006844627,3136
+16894-45T,The Bountiful Company,2010-09-30,4000.0,Buyout/LBO,Public to Private,,171015-22T,The Bountiful Company,2021-08-09,5750.0,Merger/Acquisition,,,10.858316221765914,3966
+17525-71T,CommScope Holding Company (NAS: COMM),2011-01-14,3900.0,Buyout/LBO,Public to Private,,26934-94T,CommScope Holding Company (NAS: COMM),2013-10-25,576.92,IPO,,,2.7789185489390826,1015
+18950-32T,Pharmaceutical Product Development,2011-12-05,3900.0,Buyout/LBO,Public to Private,,129433-15T,Pharmaceutical Product Development,2020-02-06,1863.0,IPO,,,8.172484599589323,2985
+10605-97T,West Technology Group,2006-10-24,3838.33,Buyout/LBO,Public to Private,,16002-37T,West Technology Group,2013-03-22,425.5,IPO,,,6.409308692676249,2341
+116350-48T,ICE Mortgage technology,2019-04-17,3700.0,Buyout/LBO,Public to Private,,140916-16T,ICE Mortgage technology,2020-09-04,11418.0,Merger/Acquisition,,,1.3853524982888432,506
+10537-84T,Bausch + Lomb (TSE: BLCO),2007-10-26,3670.0,Buyout/LBO,Public to Private,,26156-17T,Bausch + Lomb (TSE: BLCO),2013-08-07,8700.0,Merger/Acquisition,,,5.782340862422998,2112
+13376-35T,CHC Helicopter (PINX: CHHCF),2008-09-16,3552.21,Buyout/LBO,Public to Private,,28688-95T,CHC Helicopter (PINX: CHHCF),2014-01-21,310.0,IPO,,,5.347022587268994,1953
+11062-72T,Alterra Mountain,2006-10-26,3500.0,Buyout/LBO,Public to Private,,29633-23T,Alterra Mountain,2014-01-31,187.5,IPO,,,7.266255989048597,2654
+10235-26T,Florida East Coast Railway,2007-07-26,3500.0,Buyout/LBO,Public to Private,,77074-66T,Florida East Coast Railway,2017-07-07,2100.0,Merger/Acquisition,,,9.949349760438055,3634
+34635-43T,Education Management,2006-06-01,3400.0,Buyout/LBO,Public to Private,,34636-15T,Education Management,2009-10-02,360.0,IPO,,,3.3374401095140316,1219
+16298-47T,Interactive Data,2010-07-29,3400.0,Buyout/LBO,Public to Private,,49143-34T,Interactive Data,2015-12-14,5800.0,Merger/Acquisition,,,5.377138945927447,1964
+10243-54T,Aleris,2006-12-19,3300.0,Buyout/LBO,Public to Private,,109347-94T,Aleris,2020-04-14,780.0,Merger/Acquisition,,,13.319644079397673,4865
+11195-11T,Masonite,2005-04-06,3260.0,Buyout/LBO,Public to Private,,24727-96T,Masonite,2013-09-09,,IPO,,,8.427104722792608,3078
+18393-76T,LXR Luxury Resorts,2005-08-16,3240.0,Buyout/LBO,Secondary Buyout,Public to Private,153712-63T,LXR Luxury Resorts,2019-07-01,,Merger/Acquisition,,,13.872689938398358,5067
+10205-11T,Bloomin' Brands (NAS: BLMN),2007-06-14,3233.17,Buyout/LBO,Public to Private,Management Buyout,21136-96T,Bloomin' Brands (NAS: BLMN),2012-08-08,176.0,IPO,,,5.152635181382615,1882
+10240-84T,ADESA (Automotive),2007-04-20,3228.0,Buyout/LBO,Add-on,Public to Private,189464-41T,ADESA (Automotive),2022-05-09,2195.0,Merger/Acquisition,Corporate Divestiture,,15.052703627652292,5498
+10287-28T,Trusted Media Brands,2007-03-02,3201.0,Buyout/LBO,Public to Private,,31652-29T,Trusted Media Brands,2014-02-16,,Merger/Acquisition,,,6.962354551676934,2543
+17779-51T,Envision Healthcare,2011-05-25,3200.0,Buyout/LBO,Secondary Buyout,Public to Private,25495-93T,Envision Healthcare,2013-08-13,1100.9,IPO,,,2.220396988364134,811
+18838-36T,Change Healthcare,2011-11-02,3000.0,Buyout/LBO,Secondary Buyout,Public to Private,72266-95T,Change Healthcare,2016-06-28,4450.0,Merger/Acquisition,,,4.654346338124572,1700
+140511-97T,Neustar,2017-08-08,2900.0,Buyout/LBO,Public to Private,,180030-07T,Neustar,2021-12-01,3100.0,Merger/Acquisition,,,4.314852840520191,1576
+17809-03T,BJ's Wholesale Club (NYS: BJ),2011-09-30,2800.0,Buyout/LBO,Public to Private,,106041-79T,BJ's Wholesale Club (NYS: BJ),2018-06-28,637.5,IPO,,,6.743326488706366,2463
+11676-07T,Graphic Packaging Holding (NYS: GPK),1996-03-27,2700.0,Buyout/LBO,Public to Private,,11675-89T,Graphic Packaging Holding (NYS: GPK),2003-08-08,,Reverse Merger,,,7.364818617385352,2690
+10823-68T,R.J. Reynolds Tobacco,1989-02-28,2640.0,Buyout/LBO,Public to Private,,127261-45T,R.J. Reynolds Tobacco,2000-01-01,,Merger/Acquisition,Public to Private,,10.839151266255989,3959
+10052-92T,La Quinta (Irving),2006-01-25,2280.0,Buyout/LBO,Public to Private,,29218-51T,La Quinta (Irving),2014-04-09,650.25,IPO,,,8.202600958247775,2996
+72259-93T,Diamond Resorts International,2016-09-02,2226.0,Buyout/LBO,Public to Private,,168292-36T,Diamond Resorts International,2021-08-02,1400.0,Merger/Acquisition,,,4.914442162902122,1795
+10026-19T,Brickyard Healthcare,2006-03-14,2225.0,Buyout/LBO,Public to Private,,181954-00T,Brickyard Healthcare,2021-01-01,,Merger/Acquisition,,,14.803559206023271,5407
+10572-04T,Equity Inns,2007-10-24,2200.0,Buyout/LBO,Public to Private,,34500-16T,Equity Inns,2015-02-27,1925.0,Merger/Acquisition,,,7.345653661875428,2683
+10736-29T,Petco Health & Wellness Company (NAS: WOOF),2006-10-26,2180.0,Buyout/LBO,Public to Private,,160510-15T,Petco Health & Wellness Company (NAS: WOOF),2021-01-14,864.0,IPO,,,14.220396988364135,5194
+10970-74T,Getty Images Holdings (NYS: GETY),2008-07-02,2135.0,Buyout/LBO,Secondary Buyout,Public to Private,184891-24T,Getty Images Holdings (NYS: GETY),2022-07-25,,Reverse Merger,,,14.061601642710473,5136
+112780-45T,Imperva,2019-01-10,2116.0,Buyout/LBO,Public to Private,,232346-89T,Imperva,2023-12-04,3700.0,Merger/Acquisition,,,4.898015058179329,1789
+10010-53T,Insight Communications,2005-12-16,2100.0,Buyout/LBO,Public to Private,,18248-77T,Insight Communications,2012-02-29,3000.0,Merger/Acquisition,,,6.203969883641341,2266
+10166-41T,Laureate Education (NAS: LAUR),2007-07-20,2100.0,Buyout/LBO,Public to Private,Management Buyout,58564-99T,Laureate Education (NAS: LAUR),2017-02-01,490.0,IPO,,,9.538672142368242,3484
+10864-36T,Metaldyne Performance Group,2000-11-28,2056.0,Buyout/LBO,Public to Private,,10864-45T,Metaldyne Performance Group,2007-01-11,66.65,Merger/Acquisition,,,6.119096509240246,2235
+117846-28T,Hexion,1994-12-22,2000.0,Buyout/LBO,Add-on,Public to Private,117848-17T,Hexion,2004-08-12,1200.0,Merger/Acquisition,Corporate Divestiture,,9.639972621492129,3521
+10198-81T,Highland Hospitality,2007-07-17,2000.0,Buyout/LBO,Public to Private,,45314-29T,Highland Hospitality,2011-03-10,2000.0,Merger/Acquisition,Recapitalization,,3.646817248459959,1332
+67783-96T,Polycom,2016-09-27,2000.0,Buyout/LBO,Add-on,Public to Private,103477-78T,Polycom,2018-07-02,2216.64,Merger/Acquisition,Corporate Divestiture,,1.7604380561259412,643
+10238-23T,Ryerson (NYS: RYI),2007-10-19,2000.0,Buyout/LBO,Public to Private,,18521-56T,Ryerson (NYS: RYI),2014-08-08,121.0,IPO,,,6.803559206023272,2485
+10208-53T,Genesis HealthCare,2007-07-13,1995.0,Buyout/LBO,Public to Private,,36711-82T,Genesis HealthCare,2015-02-02,,Reverse Merger,,,7.559206023271732,2761
+18714-43T,Immucor,2011-08-19,1973.0,Buyout/LBO,Secondary Buyout,Public to Private,202020-13T,Immucor,2023-03-15,1543.62,Merger/Acquisition,,,11.570157426420261,4226
+113624-02T,Apptio,2019-01-10,1940.0,Buyout/LBO,Public to Private,,226765-27T,Apptio,2023-08-10,4610.0,Merger/Acquisition,,,4.5804243668720055,1673
+36613-81T,Omnivision Technologies,2016-01-28,1900.0,Buyout/LBO,Public to Private,,123669-73T,Omnivision Technologies,2018-08-15,2178.0,Merger/Acquisition,,,2.546201232032854,930
+21888-82T,Par Pharmaceutical Companies,2012-09-28,1900.0,Buyout/LBO,Public to Private,,50260-24T,Par Pharmaceutical Companies,2015-09-25,8135.6,Merger/Acquisition,,,2.9897330595482545,1092
+18041-41T,SRA International,2011-07-20,1900.0,Buyout/LBO,Public to Private,,57457-18T,SRA International,2015-11-30,1390.0,Merger/Acquisition,,,4.3641341546885695,1594
+10008-82T,LNR Property,2005-02-03,1886.2,Buyout/LBO,Public to Private,,24112-54T,LNR Property,2013-01-24,1053.0,Merger/Acquisition,,,7.972621492128679,2912
+10500-85T,Select Medical Holdings (NYS: SEM),2005-02-24,1827.7,Buyout/LBO,Public to Private,,11685-25T,Select Medical Holdings (NYS: SEM),2009-09-25,300.0,IPO,,,4.583162217659138,1674
+10490-50T,Daikin Comfort Technologies North America,2008-02-13,1812.0,Buyout/LBO,Secondary Buyout,Public to Private,17725-15T,Daikin Comfort Technologies North America,2012-11-01,3700.0,Merger/Acquisition,,,4.717316906228611,1723
+17374-24T,Gymboree Group,2010-11-23,1800.0,Buyout/LBO,Public to Private,,115623-37T,Gymboree Group,2019-04-04,76.0,Merger/Acquisition,,,8.361396303901437,3054
+10269-37T,United Surgical Partners International,2007-04-19,1800.0,Buyout/LBO,Public to Private,,17153-65T,United Surgical Partners International,2009-05-15,,Merger/Acquisition,,,2.0725530458590007,757
+70104-61T,Adobe Marketo Engage,2016-08-16,1790.0,Buyout/LBO,Public to Private,,111695-50T,Adobe Marketo Engage,2018-10-31,4736.0,Merger/Acquisition,,,2.206707734428474,806
+113046-04T,American Railcar Industries,2018-12-05,1750.0,Buyout/LBO,Public to Private,,119748-70T,American Railcar Industries,2019-07-26,418.27,Merger/Acquisition,,,0.6379192334017796,233
+10708-75T,HealthMarkets,2006-04-05,1725.22,Buyout/LBO,Public to Private,,125609-32T,HealthMarkets,2019-01-31,,Merger/Acquisition,,,12.824093086926762,4684
+11380-69T,Apria,2008-10-28,1700.0,Buyout/LBO,Public to Private,,165192-04T,Apria,2021-02-11,150.0,IPO,,,12.290212183436003,4489
+10041-40T,AMC Entertainment Holdings (NYS: AMC),2004-12-23,1670.0,Buyout/LBO,Public to Private,,21431-44T,AMC Entertainment Holdings (NYS: AMC),2012-09-04,2660.0,Merger/Acquisition,,,7.698836413415469,2812
+69061-69T,Cvent,2016-11-29,1650.0,Buyout/LBO,Secondary Buyout,Public to Private,176875-12T,Cvent,2021-12-08,326.0,Reverse Merger,,,5.023956194387406,1835
+11737-09T,Community Health Systems (Franklin) (NYS: CYH),1996-07-10,1630.0,Buyout/LBO,Public to Private,,11737-18T,Community Health Systems (Franklin) (NYS: CYH),2000-06-09,243.75,IPO,PIPE,,3.915126625598905,1430
+10972-09T,IQVIA (NYS: IQV),2003-09-25,1610.19,Buyout/LBO,Public to Private,,22377-70T,IQVIA (NYS: IQV),2013-05-09,947.37,IPO,,,9.620807665982204,3514
+17786-17T,JOANN,2011-03-18,1600.0,Buyout/LBO,Public to Private,,166873-15T,JOANN,2021-03-12,131.25,IPO,,,9.984941820670773,3647
+93342-97T,Innkeepers USA Trust,2007-06-26,1500.0,Buyout/LBO,Public to Private,,33790-42T,Innkeepers USA Trust,2014-06-11,958.5,Merger/Acquisition,,,6.959616700889802,2542
+40713-58T,Gener8 Maritime,2015-05-07,1450.0,Buyout/LBO,Secondary Buyout,Public to Private,54526-87T,Gener8 Maritime,2015-06-25,210.0,IPO,,,0.13415468856947296,49
+10952-74T,Performance Food Group (NYS: PFGC),2008-05-27,1400.25,Buyout/LBO,Public to Private,,37431-19T,Performance Food Group (NYS: PFGC),2015-10-01,275.5,IPO,,,7.345653661875428,2683
+10272-61T,Open Solutions,2007-01-23,1400.0,Buyout/LBO,Public to Private,,21137-32T,Open Solutions,2013-01-14,55.0,Merger/Acquisition,,,5.976728268309377,2183
+59557-96T,The Fresh Market,2016-04-27,1400.0,Buyout/LBO,Public to Private,Management Buyout,193815-82T,The Fresh Market,2022-07-05,681.1,Merger/Acquisition,,,6.187542778918549,2260
+11059-12T,TriZetto Provider Solutions,2008-08-05,1400.0,Buyout/LBO,Public to Private,,36730-63T,TriZetto Provider Solutions,2014-11-20,2627.8,Merger/Acquisition,,,6.291581108829569,2298
+69954-85T,Krispy Kreme Doughnuts (NAS: DNUT),2016-07-27,1350.0,Buyout/LBO,Public to Private,,171676-99T,Krispy Kreme Doughnuts (NAS: DNUT),2021-07-01,500.0,IPO,,,4.9281314168377826,1800
+19904-23T,Blue Coat Systems,2012-02-15,1300.0,Buyout/LBO,Secondary Buyout,Public to Private,71446-51T,Blue Coat Systems,2016-08-01,4673.0,Merger/Acquisition,,,4.459958932238193,1629
+10860-58T,Bright Horizons Family Solutions (NYS: BFAM),2008-05-28,1300.0,Buyout/LBO,Public to Private,,22457-53T,Bright Horizons Family Solutions (NYS: BFAM),2013-01-25,222.2,IPO,,,4.662559890485968,1703
+10467-55T,Intergraph,2006-11-29,1300.0,Buyout/LBO,Public to Private,,16800-85T,Intergraph,2010-07-01,2125.0,Merger/Acquisition,,,3.586584531143053,1310
+24971-68T,NFP,2013-07-01,1300.0,Buyout/LBO,Public to Private,,248044-06T,NFP,2024-04-25,9129.0,Merger/Acquisition,,,10.817248459958932,3951
+25868-71T,Sports Authority,2006-05-03,1300.0,Buyout/LBO,Secondary Buyout,Public to Private,76630-96T,Sports Authority,2016-06-30,15.0,Merger/Acquisition,,,10.160164271047227,3711
+11613-25T,Aptalis Pharma,2008-02-20,1291.17,Buyout/LBO,Public to Private,,30790-36T,Aptalis Pharma,2014-02-06,2900.0,Merger/Acquisition,,,5.963039014373717,2178
+10097-83T,Linen's N' Things,2006-02-14,1268.12,Buyout/LBO,Public to Private,,303035-59T,Linen's N' Things,2025-07-31,,Merger/Acquisition,,,19.457905544147845,7107
+10367-83T,WillScot (NAS: WSC),2007-10-31,1235.0,Buyout/LBO,Add-on,Public to Private,93087-10T,WillScot (NAS: WSC),2017-11-29,500.0,Reverse Merger,,,10.080766598220396,3682
+10181-71T,Serena Software,2006-03-10,1200.0,Buyout/LBO,Public to Private,,68010-85T,Serena Software,2016-05-02,540.0,Merger/Acquisition,,,10.146475017111568,3706
+16319-71T,SkillSoft (NYS: SKIL),2010-05-26,1200.0,Buyout/LBO,Public to Private,,157132-27T,SkillSoft (NYS: SKIL),2021-06-14,697.0,Reverse Merger,,,11.052703627652292,4037
+10190-98T,Aeroflex,2007-08-15,1185.47,Buyout/LBO,Public to Private,,16530-58T,Aeroflex,2010-11-19,232.88,IPO,,,3.263518138261465,1192
+10217-98T,Smart & Final Holdings,2007-05-31,1120.0,Buyout/LBO,Public to Private,,33235-12T,Smart & Final Holdings,2014-09-24,161.4,IPO,,,7.318275154004107,2673
+116115-76T,Smart & Final Holdings,2019-06-20,1120.0,Buyout/LBO,Secondary Buyout,Public to Private,172125-55T,Smart & Final Holdings,2021-07-09,620.0,Merger/Acquisition,,,2.0533880903490758,750
+21809-26T,Aquity Solutions,2012-08-15,1100.0,Buyout/LBO,Secondary Buyout,Public to Private,244399-87T,Aquity Solutions,2023-10-27,200.0,Merger/Acquisition,,,11.197809719370294,4090
+10852-30T,Concentra (NYS: CON),1999-03-22,1100.0,Buyout/LBO,Secondary Buyout,Public to Private,17679-43T,Concentra (NYS: CON),2010-12-21,804.7,Merger/Acquisition,,,11.75085557837098,4292
+21916-36T,Deltek,2012-10-10,1100.0,Buyout/LBO,Secondary Buyout,Public to Private,73527-40T,Deltek,2016-12-28,2800.0,Merger/Acquisition,,,4.216290212183436,1540
+21556-27T,Interline Brands,2012-09-07,1100.0,Buyout/LBO,Public to Private,,54000-82T,Interline Brands,2015-08-24,1672.0,Merger/Acquisition,,,2.9596167008898013,1081
+16621-12T,inVentiv Health,2010-08-04,1100.0,Buyout/LBO,Public to Private,,87502-51T,inVentiv Health,2017-08-01,4279.6,Merger/Acquisition,,,6.992470910335387,2554
+10276-48T,RailAmerica,2007-02-14,1100.0,Buyout/LBO,Public to Private,,15901-48T,RailAmerica,2009-10-13,330.0,IPO,,,2.6611909650924024,972
+10211-41T,DoubleClick,2005-07-13,1071.0,Buyout/LBO,Public to Private,,10223-20T,DoubleClick,2008-03-11,3100.0,Merger/Acquisition,,,2.6611909650924024,972
+28902-34T,Active Network,2013-11-15,1050.0,Buyout/LBO,Public to Private,,96339-88T,Active Network,2017-09-01,1171.0,Merger/Acquisition,,,3.7946611909650922,1386
+18232-84T,Forcepoint,2013-06-25,1000.0,Buyout/LBO,Public to Private,,46869-49T,Forcepoint,2015-05-29,1900.0,Merger/Acquisition,,,1.9247091033538672,703
+10198-45T,Populus Financial Group,2006-06-07,996.0,Buyout/LBO,Public to Private,Management Buyout,249697-90T,Populus Financial Group,2023-03-01,,Merger/Acquisition,,,16.73100616016427,6111
+10349-38T,Kellwood Company,2008-02-20,950.1,Buyout/LBO,Public to Private,,80126-56T,Kellwood Company,2016-12-21,156.0,Merger/Acquisition,,,8.83504449007529,3227
+10258-75T,Jostens,2000-05-10,950.0,Buyout/LBO,Public to Private,,59275-45T,Jostens,2015-11-02,1500.0,Merger/Acquisition,,,15.4798083504449,5654
+10172-89T,SS&C Technologies Holdings (NAS: SSNC),2005-11-23,942.0,Buyout/LBO,Public to Private,,16199-92T,SS&C Technologies Holdings (NAS: SSNC),2010-03-31,160.88,IPO,,,4.350444900752909,1589
+156608-38T,OneSpaWorld Holdings (NAS: OSW),2015-12-09,925.0,Buyout/LBO,Public to Private,,105551-29T,OneSpaWorld Holdings (NAS: OSW),2019-03-19,300.0,Reverse Merger,,,3.274469541409993,1196
+10492-03T,Shopko Stores,2005-12-28,879.0,Buyout/LBO,Public to Private,,167465-89T,Shopko Stores,2020-02-01,,Merger/Acquisition,,,14.094455852156058,5148
+10523-98T,DJO Global,2006-11-03,875.0,Buyout/LBO,Public to Private,,110802-61T,DJO Global,2019-02-25,3150.0,Merger/Acquisition,,,12.31211498973306,4497
+10035-73T,Ameripath,2003-03-27,839.4,Buyout/LBO,Public to Private,,10043-56T,Ameripath,2007-05-31,1215.03,Merger/Acquisition,,,4.177960301163586,1526
+10217-53T,Vertrue,2007-08-16,800.0,Buyout/LBO,Public to Private,,46403-83T,Vertrue,2012-05-23,300.0,Merger/Acquisition,,,4.769336071184121,1742
+155362-69T,Rosetta Stone,2020-10-15,792.0,Buyout/LBO,Add-on,Public to Private,168863-59T,Rosetta Stone,2021-03-17,,Merger/Acquisition,Corporate Divestiture,,0.4188911704312115,153
+234588-16T,Victor Technologies,1998-06-22,790.0,Buyout/LBO,Public to Private,,31568-14T,Victor Technologies,2014-04-14,948.8,Merger/Acquisition,,,15.811088295687885,5775
+19569-07T,Titan Private Holdings I,2012-01-25,780.0,Buyout/LBO,Public to Private,,25144-66T,Titan Private Holdings I,2013-06-10,,Merger/Acquisition,,,1.374401095140315,502
+46824-94T,Integrated Silicon Solution,2015-12-07,765.0,Buyout/LBO,Public to Private,,197149-15T,Integrated Silicon Solution,2019-11-01,,Merger/Acquisition,,,3.9014373716632442,1425
+10214-83T,PRA Health Sciences,2007-12-13,758.77,Buyout/LBO,Public to Private,,37380-07T,PRA Health Sciences,2014-11-13,305.58,IPO,,,6.91854893908282,2527
+18260-83T,Rural Metro Fire,2011-06-30,738.0,Buyout/LBO,Public to Private,,54599-23T,Rural Metro Fire,2015-10-28,620.0,Merger/Acquisition,,,4.328542094455853,1581
+29284-30T,Central Parking System,2007-05-22,728.77,Buyout/LBO,Public to Private,,20737-90T,Central Parking System,2012-10-02,149.67,Merger/Acquisition,,,5.366187542778919,1960
+16529-86T,Avintiv,2011-01-11,724.0,Buyout/LBO,Secondary Buyout,Public to Private,54607-78T,Avintiv,2015-10-01,2260.0,Merger/Acquisition,,,4.720054757015743,1724
+35263-63T,CommNet Cellular,1997-05-29,718.0,Buyout/LBO,Public to Private,,35263-99T,CommNet Cellular,2000-01-06,764.0,Merger/Acquisition,,,2.6064339493497606,952
+16685-74T,SonicWall,2010-07-23,717.0,Buyout/LBO,Public to Private,,20860-03T,SonicWall,2012-05-09,1250.0,Merger/Acquisition,,,1.7960301163586585,656
+49301-83T,Graftech International (NYS: EAF),2015-08-17,695.3,Buyout/LBO,Secondary Buyout,Public to Private,103100-59T,Graftech International (NYS: EAF),2018-04-19,525.0,IPO,,,2.6721423682409307,976
+10814-68T,Herbalife Nutrition (NYS: HLF),2002-08-31,685.0,Buyout/LBO,Public to Private,,10814-77T,Herbalife Nutrition (NYS: HLF),2004-12-16,203.0,IPO,,,2.294318959616701,838
+15995-71T,General Chemical,2009-10-29,673.0,Buyout/LBO,Secondary Buyout,Public to Private,44610-49T,General Chemical,2014-01-23,900.0,Merger/Acquisition,,,4.2354551676933605,1547
+10028-98T,CCC Intelligent Solutions (NAS: CCCS),2006-02-10,663.0,Buyout/LBO,Public to Private,,166222-36T,CCC Intelligent Solutions (NAS: CCCS),2021-08-02,605.0,Reverse Merger,,,15.474332648870636,5652
+10235-53T,Seminis Vegetable Seeds,2003-09-29,650.0,Buyout/LBO,Public to Private,,10235-62T,Seminis Vegetable Seeds,2005-03-23,1125.0,Merger/Acquisition,,,1.4811772758384667,541
+11204-92T,Chase Student Loans,2006-03-01,647.16,Buyout/LBO,Secondary Buyout,Public to Private,106937-47T,Chase Student Loans,2017-04-18,6900.0,Merger/Acquisition,,,11.132101300479125,4066
+18380-80T,Penguin Solutions (NAS: PENG),2011-08-26,645.0,Buyout/LBO,Secondary Buyout,Public to Private,87478-39T,Penguin Solutions (NAS: PENG),2017-05-24,58.3,IPO,,,5.7440109514031485,2098
+10217-89T,SafeNet,2007-04-12,634.0,Buyout/LBO,Public to Private,,36429-85T,SafeNet,2015-01-08,890.0,Merger/Acquisition,,,7.742642026009582,2828
+10165-60T,Express,2007-07-09,602.0,Buyout/LBO,Public to Private,,16363-00T,Express,2010-05-13,272.0,IPO,,,2.844626967830253,1039
+10279-63T,Center Cut Hospitality,2006-12-14,600.0,Buyout/LBO,Public to Private,,61614-73T,Center Cut Hospitality,2014-01-06,,Merger/Acquisition,Corporate Divestiture,,7.063655030800821,2580
+10762-30T,Petco Health & Wellness Company (NAS: WOOF),2000-10-02,600.0,Buyout/LBO,Public to Private,,160510-15T,Petco Health & Wellness Company (NAS: WOOF),2021-01-14,864.0,IPO,,,20.28473648186174,7409
+11470-15T,Texas-New Mexico Power,2000-04-01,589.53,Buyout/LBO,Public to Private,,11470-24T,Texas-New Mexico Power,2005-06-01,1024.0,Merger/Acquisition,,,5.166324435318275,1887
+31898-62T,Bankrate,2009-09-25,571.0,Buyout/LBO,Secondary Buyout,Public to Private,31899-97T,Bankrate,2011-06-17,300.0,IPO,,,1.7248459958932238,630
+19996-30T,Winn-Dixie Stores,2012-03-12,560.0,Buyout/LBO,Add-on,Public to Private,233878-06T,Winn-Dixie Stores,2024-03-07,,Merger/Acquisition,Corporate Divestiture,,11.986310746064339,4378
+10273-33T,Valley National Gases,2007-02-28,546.0,Buyout/LBO,Public to Private,,15630-40T,Valley National Gases,2009-03-30,,Merger/Acquisition,,,2.083504449007529,761
+17640-82T,Knoll,1999-01-01,538.3,Buyout/LBO,Public to Private,,17640-91T,Knoll,2004-12-14,165.68,IPO,,,5.952087611225188,2174
+10247-50T,Connections Education,2007-06-14,535.0,Buyout/LBO,Public to Private,Management Buyout,49123-45T,Connections Education,2011-09-15,400.0,Merger/Acquisition,,,4.254620123203286,1554
+15980-14T,Parallel Petroleum,2009-11-26,532.9,Buyout/LBO,Public to Private,,19013-95T,Parallel Petroleum,2011-11-30,772.0,Merger/Acquisition,,,2.0095824777549622,734
+16175-26T,Airvana,2010-04-12,530.0,Buyout/LBO,Public to Private,,57004-93T,Airvana,2015-10-01,45.1,Merger/Acquisition,,,5.470225872689938,1998
+45775-00T,WCA Waste Corporation,2012-03-31,526.0,Buyout/LBO,Public to Private,,146243-89T,WCA Waste Corporation,2020-10-01,1210.0,Merger/Acquisition,,,8.503764544832306,3106
+18459-10T,RentPath,2011-07-13,525.0,Buyout/LBO,Public to Private,,167172-85T,RentPath,2021-04-02,608.0,Merger/Acquisition,,,9.722108145106091,3551
+11033-47T,VCA County Veterinary Hospital,2000-09-20,525.0,Buyout/LBO,Public to Private,Recapitalization,11033-56T,VCA County Veterinary Hospital,2001-11-20,160.0,IPO,PIPE,,1.1663244353182751,426
+27909-46T,Steinway & Sons,2013-09-19,512.0,Buyout/LBO,Secondary Buyout,Public to Private,298987-75T,Steinway & Sons,2024-09-01,,Merger/Acquisition,,,10.951403148528405,4000
+78127-75T,Blue Nile,2017-02-17,500.0,Buyout/LBO,Secondary Buyout,Public to Private,201373-03T,Blue Nile,2022-08-19,389.9,Merger/Acquisition,,,5.500342231348392,2009
+10848-16T,NuCO2,2008-05-29,486.32,Buyout/LBO,Public to Private,,23986-00T,NuCO2,2013-03-01,1095.0,Merger/Acquisition,,,4.75564681724846,1737
+10099-45T,Nortek,2003-01-09,482.79,Buyout/LBO,Public to Private,,72512-20T,Nortek,2016-08-31,1093.1,Merger/Acquisition,,,13.64271047227926,4983
+10884-16T,Thomas Nelson,2006-06-12,473.0,Buyout/LBO,Public to Private,,19514-98T,Thomas Nelson,2012-07-11,,Merger/Acquisition,,,6.080766598220397,2221
+16551-46T,California Pizza Kitchen,2011-07-07,470.0,Buyout/LBO,Secondary Buyout,Public to Private,207525-97T,California Pizza Kitchen,2022-04-01,,Merger/Acquisition,,,10.735112936344969,3921
+10459-00T,Covad Communications,2008-04-15,470.0,Buyout/LBO,Public to Private,,16524-91T,Covad Communications,2010-09-01,,Merger/Acquisition,,,2.379192334017796,869
+10366-75T,Chart Industries (NYS: GTLS),2005-10-17,467.7,Buyout/LBO,Secondary Buyout,Public to Private,13726-90T,Chart Industries (NYS: GTLS),2006-07-26,187.5,IPO,,,0.7720739219712526,282
+85456-18T,Sunstone Hotel Properties,1999-07-14,453.0,Buyout/LBO,Public to Private,Management Buyout,85456-36T,Sunstone Hotel Properties,2004-10-27,,Merger/Acquisition,,,5.28952772073922,1932
+171233-92T,GUE Liquidation,2004-01-01,450.0,Buyout/LBO,Public to Private,,54842-23T,GUE Liquidation,2008-08-26,434.4,Merger/Acquisition,,,4.65160848733744,1699
+10308-97T,Sourcecorp,2006-07-12,450.0,Buyout/LBO,Public to Private,,18213-40T,Sourcecorp,2011-07-13,,Merger/Acquisition,,,5.002053388090349,1827
+10215-73T,Neff Rental,2005-06-03,443.35,Buyout/LBO,Public to Private,,37244-44T,Neff Rental,2014-11-21,157.14,IPO,,,9.467488021902806,3458
+44445-07T,American Land Lease,2009-03-16,438.0,Buyout/LBO,Public to Private,,47784-97T,American Land Lease,2015-01-06,,Merger/Acquisition,,,5.809719370294319,2122
+49283-11T,ClickSoftware Technologies,2015-07-13,438.0,Buyout/LBO,Public to Private,,115599-88T,ClickSoftware Technologies,2019-10-01,1400.0,Merger/Acquisition,,,4.219028062970568,1541
+10296-01T,Direct Auto Insurance,2007-03-30,432.39,Buyout/LBO,Public to Private,,72162-28T,Direct Auto Insurance,2016-11-01,162.01,Merger/Acquisition,,,9.593429158110883,3504
+10125-55T,Pierre Foods,2004-07-13,422.0,Buyout/LBO,Public to Private,,17026-57T,Pierre Foods,2010-10-01,,Merger/Acquisition,,,6.217659137577002,2271
+10682-11T,Florists Transworld Delivery,2004-02-24,420.0,Buyout/LBO,Public to Private,,10682-20T,Florists Transworld Delivery,2005-02-09,170.3,IPO,,,0.9609856262833676,351
+11995-48T,Harvey's Casino Resorts,1999-02-02,420.0,Buyout/LBO,Public to Private,,11995-57T,Harvey's Casino Resorts,2001-07-31,675.0,Merger/Acquisition,,,2.4914442162902124,910
+45678-61T,Saba Software,2015-03-30,418.0,Buyout/LBO,Public to Private,,132540-76T,Saba Software,2020-04-22,1359.22,Merger/Acquisition,,,5.065023956194388,1850
+10436-14T,OPENLANE (Media and Information Services (B2B)) (NYS: KAR),2005-05-25,414.0,Buyout/LBO,Public to Private,,22009-42T,OPENLANE (Media and Information Services (B2B)) (NYS: KAR),2009-12-11,300.0,IPO,,,4.547570157426421,1661
+10140-04T,Del Laboratories,2005-01-01,410.0,Buyout/LBO,Public to Private,,11107-27T,Del Laboratories,2008-01-02,800.0,Merger/Acquisition,,,3.0006844626967832,1096
+72991-27T,Musicland Group,1988-02-09,410.0,Buyout/LBO,Public to Private,Management Buyout,72991-63T,Musicland Group,2001-01-01,425.0,Merger/Acquisition,,,12.895277207392198,4710
+10238-14T,Deb Shops,2007-10-24,395.0,Buyout/LBO,Public to Private,,46650-25T,Deb Shops,2015-03-06,2.0,Merger/Acquisition,,,7.364818617385352,2690
+30454-57T,Gelson's Markets,2014-02-19,394.0,Buyout/LBO,Public to Private,,167300-47T,Gelson's Markets,2021-02-23,,Merger/Acquisition,,,7.011635865845311,2561
+30861-82T,American Pacific,2014-02-27,392.0,Buyout/LBO,Public to Private,,246893-68T,American Pacific,2024-01-16,700.0,Merger/Acquisition,,,9.883641341546886,3610
+19186-39T,Fundtech,2011-11-30,390.0,Buyout/LBO,Public to Private,,44942-95T,Fundtech,2015-04-30,1300.0,Merger/Acquisition,,,3.4140999315537304,1247
+15857-83T,MSC Software,2009-10-14,390.0,Buyout/LBO,Public to Private,,81036-01T,MSC Software,2017-04-26,834.0,Merger/Acquisition,,,7.531827515400411,2751
+10030-69T,Enterasys Networks,2006-03-01,386.0,Buyout/LBO,Secondary Buyout,Public to Private,28527-31T,Enterasys Networks,2013-10-31,180.0,Merger/Acquisition,,,7.668720054757015,2801
+25450-57T,Anaren,2014-02-18,383.0,Buyout/LBO,Secondary Buyout,Public to Private,93413-62T,Anaren,2018-04-18,787.91,Merger/Acquisition,,,4.161533196440794,1520
+15605-74T,Charlotte Russe,2009-10-14,380.0,Buyout/LBO,Public to Private,,117821-44T,Charlotte Russe,2019-03-29,,Merger/Acquisition,,,9.453798767967145,3453
+11127-61T,Water Pik,2006-04-12,380.0,Buyout/LBO,Public to Private,,90763-93T,Water Pik,2017-08-07,1024.6,Merger/Acquisition,,,11.321013004791238,4135
+10745-38T,Jameson Inns,2006-07-27,371.0,Buyout/LBO,Add-on,Public to Private,80020-90T,Jameson Inns,2014-01-01,,Merger/Acquisition,,,7.433264887063655,2715
+79688-35T,Lionbridge,2017-02-28,369.0,Buyout/LBO,Public to Private,,224864-92T,Lionbridge,2022-01-01,,Merger/Acquisition,,,4.8405201916495555,1768
+11531-35T,American Safety Razor,1999-04-23,363.0,Buyout/LBO,Secondary Buyout,Public to Private,16752-97T,American Safety Razor,2010-11-23,301.0,Merger/Acquisition,,,11.586584531143053,4232
+10936-36T,Fluidra North America,2006-04-12,341.74,Buyout/LBO,Public to Private,,96810-13T,Fluidra North America,2018-07-02,838.0,Merger/Acquisition,,,12.2217659137577,4464
+10250-83T,1-800 Contacts,2007-09-06,340.0,Buyout/LBO,Public to Private,,21591-01T,1-800 Contacts,2012-06-04,900.0,Merger/Acquisition,,,4.744695414099931,1733
+28144-72T,Globecomm,2013-12-11,340.0,Buyout/LBO,Public to Private,,111051-82T,Globecomm,2018-12-14,135.0,Merger/Acquisition,,,5.007529089664613,1829
+10232-29T,Friendly's Ice Cream,2007-06-18,337.2,Buyout/LBO,Public to Private,,157570-21T,Friendly's Ice Cream,2016-07-21,155.0,Merger/Acquisition,,,9.092402464065708,3321
+10245-52T,Buckeye Pipe Line Holdings,2007-06-25,335.0,Buyout/LBO,Secondary Buyout,Public to Private,16708-69T,Buckeye Pipe Line Holdings,2010-11-16,1160.0,Merger/Acquisition,,,3.3949349760438055,1240
+11444-05T,Jason (Acquired),2000-08-04,335.0,Buyout/LBO,Public to Private,Management Buyout,32253-67T,Jason (Acquired),2014-06-30,538.65,Merger/Acquisition,,,13.902806297056811,5078
+16012-90T,Viasystems Group,1996-10-01,330.0,Buyout/LBO,Public to Private,,16013-08T,Viasystems Group,2000-03-24,924.0,IPO,,,3.477070499657769,1270
+10140-22T,Party City,2005-12-27,315.9,Buyout/LBO,Secondary Buyout,Public to Private,29844-82T,Party City,2015-04-16,371.88,IPO,,,9.300479123887747,3397
+10811-26T,Dayton Superior,2000-06-16,315.0,Buyout/LBO,Public to Private,,10811-35T,Dayton Superior,2006-12-20,94.2,IPO,,,6.510609171800137,2378
+183432-97T,Casper Sleep,2022-01-25,308.0,Buyout/LBO,Public to Private,,276158-35T,Casper Sleep,2024-10-28,,Merger/Acquisition,,,2.757015742642026,1007
+18446-95T,Sound United,2011-06-21,301.67,Buyout/LBO,Public to Private,Management Buyout,188530-21T,Sound United,2022-04-11,1086.0,Merger/Acquisition,,,10.806297056810404,3947
+10055-80T,Belden & Blake,1997-06-27,301.56,Buyout/LBO,Public to Private,,57182-23T,Belden & Blake,2015-10-01,111.1,Merger/Acquisition,,,18.261464750171115,6670
+10884-61T,Interline Brands,2000-05-16,300.8,Buyout/LBO,Public to Private,,10884-70T,Interline Brands,2004-12-16,187.5,IPO,,,4.58590006844627,1675
+62543-17T,Mattson Technology,2016-05-11,300.0,Buyout/LBO,Public to Private,,303038-56T,Mattson Technology,2024-12-01,,Merger/Acquisition,,,8.558521560574949,3126
+18604-18T,Gerber Technology,2011-08-22,298.0,Buyout/LBO,Public to Private,,166370-14T,Gerber Technology,2021-06-01,364.49,Merger/Acquisition,,,9.776865160848734,3571
+21510-73T,Benihana,2012-08-21,297.0,Buyout/LBO,Public to Private,,255409-75T,Benihana,2024-05-01,365.0,Merger/Acquisition,,,11.693360711841205,4271
+16642-90T,Virtual Radiologic,2010-07-12,294.0,Buyout/LBO,Public to Private,,46827-46T,Virtual Radiologic,2015-05-18,500.0,Merger/Acquisition,,,4.848733744010952,1771
+232038-37T,Harborside Healthcare,1998-05-01,291.0,Buyout/LBO,Public to Private,,10586-71T,Harborside Healthcare,2007-04-19,350.0,Merger/Acquisition,,,8.966461327857632,3275
+16007-86T,SI Corporation,1999-12-14,282.88,Buyout/LBO,Public to Private,,16008-31T,SI Corporation,2006-01-31,232.6,Merger/Acquisition,,,6.132785763175907,2240
+13469-59T,Global Motorsport Group,1998-12-15,278.0,Buyout/LBO,Secondary Buyout,Public to Private,16123-15T,Global Motorsport Group,2008-03-10,,Merger/Acquisition,,,9.234770704996578,3373
+11015-92T,US Can,2000-10-05,276.66,Buyout/LBO,Public to Private,,11016-01T,US Can,2006-03-27,,Merger/Acquisition,,,5.47296372347707,1999
+44552-62T,E2open,2015-03-26,273.0,Buyout/LBO,Public to Private,,157631-86T,E2open,2021-02-05,614.0,Reverse Merger,,,5.867214236824093,2143
+29177-11T,Restoration Hardware (NYS: RH),2008-06-17,267.0,Buyout/LBO,Public to Private,Management Buyout,29177-20T,Restoration Hardware (NYS: RH),2012-11-02,123.94,IPO,,,4.37782340862423,1599
+13613-41T,Integrated Circuit Systems,1999-01-20,264.0,Buyout/LBO,Public to Private,Management Buyout,13613-50T,Integrated Circuit Systems,2000-05-23,162.5,IPO,,,1.3388090349075976,489
+10967-32T,Aavid Thermal Technologies,2000-02-02,260.0,Buyout/LBO,Public to Private,,10967-41T,Aavid Thermal Technologies,2006-02-16,565.0,Merger/Acquisition,,,6.039698836413415,2206
+29284-48T,Eagle Hospitality Properties Trust,2007-04-30,259.23,Buyout/LBO,Public to Private,,44590-24T,Eagle Hospitality Properties Trust,2018-01-01,,Merger/Acquisition,,,10.674880219028063,3899
+10029-61T,Dave & Buster's (NAS: PLAY),2006-03-08,257.97,Buyout/LBO,Public to Private,,34460-56T,Dave & Buster's (NAS: PLAY),2014-10-10,94.12,IPO,,,8.591375770020534,3138
+92320-93T,Loewenstein Furniture,1999-08-27,257.18,Buyout/LBO,Public to Private,,92315-08T,Loewenstein Furniture,2008-08-19,,Merger/Acquisition,,,8.980150581793293,3280
+10068-94T,CompuCom,2004-10-01,254.0,Buyout/LBO,Public to Private,,95213-17T,CompuCom,2017-11-08,940.0,Merger/Acquisition,,,13.103353867214237,4786
+25672-33T,Telular,2013-06-24,253.0,Buyout/LBO,Public to Private,,113417-74T,Telular,2018-10-01,522.7,Merger/Acquisition,,,5.270362765229295,1925
+16417-36T,Townsquare Media (NYS: TSQ),2010-04-27,250.0,Buyout/LBO,Secondary Buyout,Public to Private,35060-77T,Townsquare Media (NYS: TSQ),2014-07-24,91.67,IPO,,,4.240930869267625,1549
+16635-88T,Double-Take Software,2010-07-26,242.0,Buyout/LBO,Add-on,Public to Private,81777-79T,Double-Take Software,2017-01-31,65.93,Merger/Acquisition,Corporate Divestiture,,6.5188227241615335,2381
+10800-10T,Lifecore Biomedical,2008-03-24,239.0,Buyout/LBO,Public to Private,,16606-27T,Lifecore Biomedical,2010-04-30,49.65,Merger/Acquisition,,,2.099931553730322,767
+18145-72T,Sotera Defense Solutions,2011-04-04,235.23,Buyout/LBO,Secondary Buyout,Public to Private,84400-30T,Sotera Defense Solutions,2017-04-04,235.0,Merger/Acquisition,,,6.0013689253935665,2192
+10230-85T,International Architectural Group,2007-04-02,228.0,Buyout/LBO,Public to Private,,49087-54T,International Architectural Group,2011-06-24,8.0,Merger/Acquisition,,,4.227241615331964,1544
+23378-32T,Firstcity Financial,2013-05-20,225.0,Buyout/LBO,Public to Private,,75221-56T,Firstcity Financial,2015-09-09,,Merger/Acquisition,,,2.305270362765229,842
+10260-91T,ProQuest (Publishing),2007-02-12,222.0,Buyout/LBO,Public to Private,,172262-17T,ProQuest (Publishing),2021-12-01,4994.33,Merger/Acquisition,,,14.80082135523614,5406
+257894-02T,Yankee Candle,2003-09-05,216.6,Buyout/LBO,Public to Private,,35377-21T,Yankee Candle,2013-10-03,67.0,Merger/Acquisition,,,10.078028747433265,3681
+10121-59T,Sheridan Healthcare,1999-05-01,215.0,Buyout/LBO,Secondary Buyout,Public to Private,34295-59T,Sheridan Healthcare,2014-07-17,2350.0,Merger/Acquisition,,,15.211498973305956,5556
+10401-76T,Haggar,2005-09-01,212.0,Buyout/LBO,Public to Private,,92612-98T,Haggar,2017-01-01,,Merger/Acquisition,,,11.3347022587269,4140
+12009-97T,Centerplate,2009-01-26,210.0,Buyout/LBO,Secondary Buyout,Public to Private,97234-21T,Centerplate,2017-12-27,650.0,Merger/Acquisition,,,8.917180013689254,3257
+10670-77T,EXCO Resources (PINX: EXCE),2003-07-29,208.15,Buyout/LBO,Secondary Buyout,Public to Private,10670-86T,EXCO Resources (PINX: EXCE),2006-02-08,650.0,IPO,,,2.532511978097194,925
+17166-88T,Prospect Medical Holdings,2010-12-15,205.0,Buyout/LBO,Public to Private,,113262-22T,Prospect Medical Holdings,2021-01-01,,Merger/Acquisition,,,10.047912388774812,3670
+80211-52T,Portrait Corp. of America,1998-08-21,200.0,Buyout/LBO,Public to Private,Management Buyout,80214-04T,Portrait Corp. of America,2007-06-08,100.0,Merger/Acquisition,,,8.796714579055442,3213
+10258-39T,Register.com,2005-11-04,200.0,Buyout/LBO,Public to Private,,16727-05T,Register.com,2010-07-30,135.0,Merger/Acquisition,,,4.733744010951403,1729
+15603-49T,Tops Markets,1987-07-01,200.0,Buyout/LBO,Public to Private,,166531-87T,Tops Markets,2021-11-08,,Merger/Acquisition,,,34.35728952772074,12549
+18021-97T,Conexant Systems,2011-04-19,197.0,Buyout/LBO,Secondary Buyout,Public to Private,89050-06T,Conexant Systems,2017-07-25,346.2,Merger/Acquisition,,,6.26694045174538,2289
+10019-26T,National Vision Holdings (NAS: EYE),2005-09-01,193.0,Buyout/LBO,Secondary Buyout,Public to Private,95083-66T,National Vision Holdings (NAS: EYE),2017-10-26,347.6,IPO,,,12.150581793292266,4438
+20913-13T,AAF Flanders,2012-05-16,192.0,Buyout/LBO,Public to Private,,65945-26T,AAF Flanders,2016-04-27,430.0,Merger/Acquisition,,,3.9479808350444903,1442
+13701-34T,Coinmach Service,2000-07-07,187.88,Buyout/LBO,Public to Private,,13701-43T,Coinmach Service,2004-11-24,250.07,IPO,,,4.383299110198494,1601
+114591-79T,Sparton,2019-03-04,181.5,Buyout/LBO,Public to Private,,164079-55T,Sparton,2021-04-06,380.0,Merger/Acquisition,,,2.0917180013689256,764
+10117-18T,Loehmann's,2004-10-13,177.0,Buyout/LBO,Public to Private,,303178-69T,Loehmann's,2020-01-01,0.3,Merger/Acquisition,,,15.21697467488022,5558
+13578-94T,Big V Supermarkets,1987-11-01,175.0,Buyout/LBO,Public to Private,,13579-39T,Big V Supermarkets,2002-07-12,,Merger/Acquisition,,,14.694045174537989,5367
+11997-73T,La Petite Academy,1993-08-03,166.15,Buyout/LBO,Public to Private,,11998-00T,La Petite Academy,2007-03-31,330.0,Merger/Acquisition,,,13.656399726214921,4988
+10502-74T,Niagara,2006-09-06,165.0,Buyout/LBO,Public to Private,,19816-75T,Niagara,2011-12-05,,Merger/Acquisition,,,5.245722108145106,1916
+35564-05T,Kenneth Cole Productions,2012-09-25,163.3,Buyout/LBO,Public to Private,Management Buyout,295985-53T,Kenneth Cole Productions,2024-01-01,,Merger/Acquisition,,,11.266255989048597,4115
+10815-13T,General Chemical Industrial Products,2004-04-05,162.5,Buyout/LBO,Public to Private,,10815-22T,General Chemical Industrial Products,2008-03-27,1005.0,Merger/Acquisition,,,3.975359342915811,1452
+10797-94T,Empi (Therapeutic Devices),1999-08-31,161.41,Buyout/LBO,Public to Private,,243543-43T,Empi (Therapeutic Devices),2004-10-04,369.2,Merger/Acquisition,,,5.0951403148528405,1861
+85177-63T,CDI Engineering Solutions,2017-07-31,157.5,Buyout/LBO,Public to Private,,281031-31T,CDI Engineering Solutions,2024-12-31,,Merger/Acquisition,,,7.4195756331279945,2710
+11166-13T,Clayton Holdings,2008-07-02,156.86,Buyout/LBO,Public to Private,,33657-94T,Clayton Holdings,2014-07-01,312.5,Merger/Acquisition,,,5.9958932238193015,2190
+11857-42T,EAG Laboratories,2008-10-01,156.13,Buyout/LBO,Secondary Buyout,Public to Private,94606-48T,EAG Laboratories,2017-12-04,780.0,Merger/Acquisition,,,9.174537987679672,3351
+28654-39T,Sunrise Senior Living,2013-03-13,156.0,Buyout/LBO,Public to Private,,31540-15T,Sunrise Senior Living,2014-04-21,350.0,Merger/Acquisition,Recapitalization,,1.106091718001369,404
+17174-80T,Phoenix Technologies (US),2010-11-23,152.0,Buyout/LBO,Public to Private,,140571-10T,Phoenix Technologies (US),2019-08-01,,Merger/Acquisition,,,8.687200547570157,3173
+15966-37T,CompBenefits,1999-06-18,151.73,Buyout/LBO,Public to Private,Management Buyout,11060-02T,CompBenefits,2007-10-01,369.14,Merger/Acquisition,,,8.28747433264887,3027
+17549-38T,Source Photonics,2010-10-26,146.0,Buyout/LBO,Public to Private,,137826-28T,Source Photonics,2020-06-08,135.0,Merger/Acquisition,,,9.618069815195073,3513
+16932-43T,Bell Helmets,1998-08-17,145.48,Buyout/LBO,Public to Private,,68705-65T,Bell Helmets,2016-04-01,,Merger/Acquisition,Corporate Divestiture,,17.623545516769337,6437
+25012-90T,EDAC Technologies,2013-05-07,145.1,Buyout/LBO,Public to Private,,119649-16T,EDAC Technologies,2019-09-30,300.0,Merger/Acquisition,,,6.398357289527721,2337
+10848-70T,Dominion Homes,2008-06-11,144.2,Buyout/LBO,Public to Private,,81873-28T,Dominion Homes,2014-08-25,82.4,Merger/Acquisition,,,6.203969883641341,2266
+11070-46T,Leslie's (NAS: LESL),1997-06-11,140.0,Buyout/LBO,Public to Private,Management Buyout,157328-56T,Leslie's (NAS: LESL),2020-10-29,680.0,IPO,,,23.38398357289528,8541
+21387-43T,BluJay Solutions,2012-07-12,139.59,Buyout/LBO,Public to Private,,172939-96T,BluJay Solutions,2021-09-01,1500.0,Merger/Acquisition,,,9.138945927446954,3338
+11332-63T,WJ Communications,1999-11-01,139.2,Buyout/LBO,Public to Private,,11333-35T,WJ Communications,2000-08-18,99.36,IPO,,,0.7967145790554415,291
+17409-16T,Home Products International,2004-12-14,137.1,Buyout/LBO,Public to Private,,17410-69T,Home Products International,2007-03-21,75.0,Merger/Acquisition,,,2.2642026009582477,827
+18089-83T,Tollgrade Communications,2011-05-10,137.0,Buyout/LBO,Public to Private,,86244-85T,Tollgrade Communications,2017-04-12,23.0,Merger/Acquisition,,,5.924709103353867,2164
+11402-29T,Industrial Distribution Group,2008-08-06,136.0,Buyout/LBO,Public to Private,,37721-35T,Industrial Distribution Group,2014-09-18,,Merger/Acquisition,,,6.116358658453114,2234
+17923-33T,RAE Systems,2011-06-11,134.0,Buyout/LBO,Public to Private,,25568-47T,RAE Systems,2013-06-04,340.0,Merger/Acquisition,,,1.9822039698836413,724
+10521-28T,Knape & Vogt Manufacturing,2006-07-28,133.24,Buyout/LBO,Public to Private,,272413-72T,Knape & Vogt Manufacturing,2024-02-01,,Merger/Acquisition,,,17.51403148528405,6397
+10205-47T,Agiliti Health,1998-02-26,133.0,Buyout/LBO,Public to Private,Recapitalization,113040-19T,Agiliti Health,2021-04-26,368.42,IPO,,,23.16221765913758,8460
+10733-41T,Varsity Spirit,2003-04-23,130.9,Buyout/LBO,Public to Private,Management Buyout,19644-31T,Varsity Spirit,2011-07-31,,Merger/Acquisition,,,8.271047227926077,3021
+15720-04T,At Home Group,1999-12-23,128.59,Buyout/LBO,Public to Private,,56923-48T,At Home Group,2016-08-04,130.01,IPO,,,16.61601642710472,6069
+18005-05T,Answers.com,2011-04-14,127.0,Buyout/LBO,Add-on,Public to Private,194979-70T,Answers.com,2022-05-04,4.63,Merger/Acquisition,Acquisition Financing,,11.055441478439425,4038
+16746-49T,Alloy Media Marketing,2010-11-09,126.3,Buyout/LBO,Secondary Buyout,Public to Private,88569-10T,Alloy Media Marketing,2012-06-11,,Merger/Acquisition,,,1.5879534565366187,580
+16141-51T,Harris Healthcare,2010-03-18,126.0,Buyout/LBO,Public to Private,,26308-72T,Harris Healthcare,2013-06-04,,Merger/Acquisition,,,3.2142368240930868,1174
+15685-84T,Entrust (Plano),2009-07-28,123.1,Buyout/LBO,Public to Private,,30335-86T,Entrust (Plano),2013-12-31,,Merger/Acquisition,,,4.427104722792608,1617
+16689-61T,OMNI Energy Services,2010-10-27,122.0,Buyout/LBO,Public to Private,,22479-13T,OMNI Energy Services,2012-10-31,439.7,Merger/Acquisition,,,2.0123203285420943,735
+73736-02T,Sizmek,2016-09-01,122.0,Buyout/LBO,Public to Private,,124925-14T,Sizmek,2019-06-01,,Merger/Acquisition,,,2.746064339493498,1003
+25936-30T,Theragenics,2013-10-29,121.5,Buyout/LBO,Public to Private,,214826-14T,Theragenics,2022-07-01,,Merger/Acquisition,,,8.670773442847365,3167
+10043-74T,Autocam,2000-02-07,118.33,Buyout/LBO,Public to Private,,35860-78T,Autocam,2014-08-29,288.55,Merger/Acquisition,,,14.557152635181383,5317
+10669-96T,Jenny Craig,2002-05-22,115.0,Buyout/LBO,Public to Private,,10671-58T,Jenny Craig,2006-09-30,600.0,Merger/Acquisition,,,4.358658453114305,1592
+10747-45T,Concorde Career Colleges,2006-09-01,114.5,Buyout/LBO,Public to Private,,193426-39T,Concorde Career Colleges,2022-12-01,50.0,Merger/Acquisition,,,16.249144421629023,5935
+11098-18T,Thousand Trails,2003-07-23,113.0,Buyout/LBO,Public to Private,,11098-36T,Thousand Trails,2005-05-01,,Merger/Acquisition,,,1.7741273100616017,648
+102443-23T,Bravo Brio Restaurants,2018-05-24,112.9,Buyout/LBO,Secondary Buyout,Public to Private,138134-62T,Bravo Brio Restaurants,2020-06-11,30.0,Merger/Acquisition,,,2.0506502395619437,749
+10751-41T,Collins Industries,2007-02-01,110.0,Buyout/LBO,Public to Private,,40522-60T,Collins Industries,2010-01-01,,Merger/Acquisition,,,2.915811088295688,1065
+17800-30T,United Auto Credit,2011-02-25,110.0,Buyout/LBO,Public to Private,Management Buyout,181676-08T,United Auto Credit,2022-02-01,315.4,Merger/Acquisition,,,10.934976043805612,3994
+29708-74T,Radial (BPO/Outsource Services),2014-01-06,109.0,Buyout/LBO,Secondary Buyout,Public to Private,95473-00T,Radial (BPO/Outsource Services),2017-11-16,820.0,Merger/Acquisition,,,3.8603696098562628,1410
+11353-96T,Loring Ward International,2009-01-23,108.6,Buyout/LBO,Public to Private,,112293-19T,Loring Ward International,2018-11-30,235.0,Merger/Acquisition,,,9.850787132101301,3598
+10498-24T,Printronix,2008-01-08,108.0,Buyout/LBO,Public to Private,,86825-71T,Printronix,2013-01-10,,Merger/Acquisition,,,5.007529089664613,1829
+16686-01T,Teletrac,2010-06-03,106.9,Buyout/LBO,Public to Private,,27662-68T,Teletrac,2013-08-02,,Merger/Acquisition,,,3.164955509924709,1156
+25586-11T,ICG Communications,2004-10-18,106.0,Buyout/LBO,Secondary Buyout,Public to Private,26263-36T,ICG Communications,2006-05-31,163.0,Merger/Acquisition,,,1.6153319644079398,590
+10221-85T,Network Solutions,2003-11-25,100.0,Buyout/LBO,Public to Private,,18888-04T,Network Solutions,2011-10-27,560.9,Merger/Acquisition,,,7.920602327173169,2893
+22383-28T,Stellantis Financial Services (Consumer Finance),2012-11-01,100.0,Buyout/LBO,Public to Private,,179402-05T,Stellantis Financial Services (Consumer Finance),2021-11-01,289.0,Merger/Acquisition,,,8.999315537303216,3287
+99641-35T,Wilsons Leather,1987-01-01,99.3,Buyout/LBO,Public to Private,Management Buyout,11529-28T,Wilsons Leather,2008-07-08,25.1,Merger/Acquisition,Public to Private,,21.516769336071185,7859
+18007-03T,Silverleaf Resorts,2011-05-18,94.4,Buyout/LBO,Public to Private,,50589-37T,Silverleaf Resorts,2015-05-20,,Merger/Acquisition,,,4.005475701574264,1463
+34489-72T,Andros (Devices and Supplies) (NAS: ANDY),1996-05-14,92.62,Buyout/LBO,Public to Private,,82645-57T,Andros (Devices and Supplies) (NAS: ANDY),2007-05-04,,Merger/Acquisition,Corporate Divestiture,,10.97056810403833,4007
+112709-98T,Galaxy Cablevision,1995-09-06,92.0,Buyout/LBO,Public to Private,Management Buyout,94598-20T,Galaxy Cablevision,2010-05-24,,Merger/Acquisition,,,14.713210130047912,5374
+17469-55T,Ulticom,2010-12-03,90.0,Buyout/LBO,Public to Private,,44406-46T,Ulticom,2015-01-16,20.0,Merger/Acquisition,,,4.120465434633813,1505
+10902-88T,Bertucci's,1998-06-21,87.46,Buyout/LBO,Add-on,Public to Private,106556-50T,Bertucci's,2018-06-05,20.0,Merger/Acquisition,,,19.956194387405887,7289
+10705-06T,BI Incorporated,2000-10-04,85.0,Buyout/LBO,Public to Private,,17776-63T,BI Incorporated,2011-02-10,415.0,Merger/Acquisition,,,10.351813826146476,3781
+52780-87T,Firstmark (Chatsworth),2015-07-01,84.0,Buyout/LBO,Add-on,Public to Private,111878-65T,Firstmark (Chatsworth),2018-11-26,97.4,Merger/Acquisition,Corporate Divestiture,,3.405886379192334,1244
+23879-89T,Maynard Oil,2002-07-01,83.0,Buyout/LBO,Add-on,Public to Private,23881-06T,Maynard Oil,2003-12-01,,Merger/Acquisition,Corporate Divestiture,,1.4182067077344285,518
+17752-60T,Matrixx Initiatives,2011-02-18,82.25,Buyout/LBO,Public to Private,,160371-37T,Matrixx Initiatives,2020-12-01,532.7,Merger/Acquisition,,,9.78507871321013,3574
+99645-49T,Connecture,2018-04-26,81.26,Buyout/LBO,Public to Private,,126917-65T,Connecture,2019-10-07,,Merger/Acquisition,,,1.4483230663928817,529
+10033-30T,Il Fornaio,2001-07-16,81.0,Buyout/LBO,Secondary Buyout,Public to Private,22817-98T,Il Fornaio,2012-09-13,,Merger/Acquisition,,,11.162217659137577,4077
+16742-71T,Anchor Glass Container,2002-08-30,80.0,Buyout/LBO,Public to Private,,22163-05T,Anchor Glass Container,2012-08-20,880.0,Merger/Acquisition,,,9.973990417522245,3643
+10819-18T,Optimum,2003-02-12,80.0,Buyout/LBO,Public to Private,,50426-29T,Optimum,2015-12-20,9100.0,Merger/Acquisition,,,12.851471594798083,4694
+61545-79T,Kana Software,2009-12-23,77.48,Buyout/LBO,Public to Private,,61545-88T,Kana Software,2014-02-04,541.68,Merger/Acquisition,,,4.117727583846681,1504
+10520-83T,Morton Industrial Group,2006-08-25,76.6,Buyout/LBO,Secondary Buyout,Public to Private,15620-50T,Morton Industrial Group,2009-06-26,33.0,Merger/Acquisition,,,2.836413415468857,1036
+32657-95T,DivX,2014-03-31,75.0,Buyout/LBO,Public to Private,,44183-80T,DivX,2015-01-05,62.5,Merger/Acquisition,,,0.7665982203969883,280
+12791-26T,Planvista.,2008-10-01,75.0,Buyout/LBO,Secondary Buyout,Public to Private,66292-12T,Planvista.,2016-02-29,460.0,Merger/Acquisition,,,7.411362080766598,2707
+10128-07T,Zomax,2006-12-01,72.0,Buyout/LBO,Public to Private,,64592-38T,Zomax,2009-01-08,,Merger/Acquisition,,,2.105407255304586,769
+10193-86T,The Hillman Group (NAS: HLMN),2001-09-27,71.48,Buyout/LBO,Public to Private,,165057-58T,The Hillman Group (NAS: HLMN),2021-07-14,1485.0,Reverse Merger,,,19.794661190965094,7230
+10738-81T,Morton's Restaurant Group,2002-07-25,71.22,Buyout/LBO,Public to Private,,12025-27T,Morton's Restaurant Group,2006-02-09,160.91,IPO,,,3.5455167693360714,1295
+16016-86T,Celsis International,2009-10-09,70.51,Buyout/LBO,Public to Private,,53233-84T,Celsis International,2015-07-24,331.61,Merger/Acquisition,,,5.7878165639972625,2114
+16648-21T,Allied Vaughn,1998-09-25,68.1,Buyout/LBO,Public to Private,,16648-84T,Allied Vaughn,2001-01-19,25.0,Merger/Acquisition,,,2.31895961670089,847
+84217-51T,Frederick's of Hollywood,1997-09-30,67.4,Buyout/LBO,Public to Private,,48778-48T,Frederick's of Hollywood,2007-01-01,,Reverse Merger,,,9.253935660506503,3380
+17216-38T,Simplicity Creative Group,2000-03-06,66.11,Buyout/LBO,Public to Private,Management Buyout,96747-58T,Simplicity Creative Group,2017-11-03,73.03,Merger/Acquisition,Corporate Divestiture,,17.661875427789184,6451
+10871-02T,Manatron,2008-04-01,66.0,Buyout/LBO,Public to Private,,18556-66T,Manatron,2011-07-18,265.0,Merger/Acquisition,,,3.293634496919918,1203
+17929-90T,Global Capacity,2010-12-14,65.0,Buyout/LBO,Public to Private,,89704-99T,Global Capacity,2017-09-18,104.0,Merger/Acquisition,,,6.76249144421629,2470
+10457-38T,TA Dedicated,2006-02-28,65.0,Buyout/LBO,Public to Private,,34363-72T,TA Dedicated,2014-07-03,164.2,Merger/Acquisition,,,8.342231348391513,3047
+20593-18T,SeraCare,2012-04-20,63.9,Buyout/LBO,Public to Private,,267387-49T,SeraCare,2023-03-01,,Merger/Acquisition,Corporate Divestiture,,10.861054072553046,3967
+10612-18T,Workflow Management,2004-04-26,62.27,Buyout/LBO,Public to Private,,29454-13T,Workflow Management,2013-08-01,218.0,Merger/Acquisition,,,9.264887063655031,3384
+97815-07T,MGC Diagnostics,2017-12-28,62.1,Buyout/LBO,Public to Private,,209439-01T,MGC Diagnostics,2022-12-28,170.0,Merger/Acquisition,,,4.999315537303217,1826
+87684-67T,American Plastics,2017-07-21,62.0,Buyout/LBO,Public to Private,,199966-33T,American Plastics,2022-07-20,,Merger/Acquisition,,,4.996577686516085,1825
+11691-46T,American Civil Constructors,2009-02-02,61.3,Buyout/LBO,Public to Private,,110282-95T,American Civil Constructors,2018-09-25,365.5,Merger/Acquisition,,,9.64271047227926,3522
+16582-96T,National Picture & Frame,1997-10-10,59.6,Buyout/LBO,Public to Private,,16583-77T,National Picture & Frame,2000-11-01,,Merger/Acquisition,,,3.060917180013689,1118
+63587-71T,Must Have Perennials,2007-03-30,58.77,Buyout/LBO,Public to Private,,88011-10T,Must Have Perennials,2018-01-01,,Merger/Acquisition,,,10.759753593429158,3930
+10572-85T,Enesco,2007-02-15,56.74,Buyout/LBO,Public to Private,,212345-65T,Enesco,2023-01-06,,Merger/Acquisition,,,15.890485968514716,5804
+11089-72T,Acme Electric,2000-11-22,56.7,Buyout/LBO,Add-on,Public to Private,54262-09T,Acme Electric,2015-01-21,67.4,Merger/Acquisition,,,14.16290212183436,5173
+16231-33T,Kellstrom Aerospace,2002-07-17,55.0,Buyout/LBO,Public to Private,,274730-32T,Kellstrom Aerospace,2024-12-03,188.9,Merger/Acquisition,,,22.38193018480493,8175
+15710-59T,Revitas,2009-06-25,55.0,Buyout/LBO,Secondary Buyout,Public to Private,79829-65T,Revitas,2017-01-05,52.8,Merger/Acquisition,,,7.531827515400411,2751
+10711-00T,United States Exploration,2003-09-25,53.3,Buyout/LBO,Public to Private,,10711-09T,United States Exploration,2006-04-04,411.0,Merger/Acquisition,,,2.524298425735797,922
+10439-20T,Escalate Retail,2005-05-13,52.3,Buyout/LBO,Add-on,Public to Private,71452-63T,Escalate Retail,2011-02-02,,Merger/Acquisition,Corporate Divestiture,,5.724845995893224,2091
+10609-75T,EXL Landa,2004-04-27,50.0,Buyout/LBO,Add-on,Public to Private,68872-60T,EXL Landa,2012-10-15,38.0,Merger/Acquisition,Corporate Divestiture,,8.46817248459959,3093
+16246-18T,Hibbett Sports,1995-01-01,50.0,Buyout/LBO,Public to Private,,257516-92T,Hibbett Sports,2024-04-27,1077.0,Merger/Acquisition,,,29.319644079397673,10709
+28369-27T,GTL Resources,2012-01-17,49.55,Buyout/LBO,Public to Private,,79765-21T,GTL Resources,2014-06-03,,Merger/Acquisition,,,2.3764544832306638,868
+20988-64T,Comverge,2012-05-16,49.0,Buyout/LBO,Public to Private,,87382-81T,Comverge,2017-06-01,100.01,Merger/Acquisition,,,5.04312114989733,1842
+13601-35T,Business Resource Group,2000-08-16,48.6,Buyout/LBO,Public to Private,,70767-10T,Business Resource Group,2015-10-01,,Merger/Acquisition,,,15.123887748117728,5524
+10751-77T,PrecisionIR,2006-08-15,48.19,Buyout/LBO,Public to Private,,28171-54T,PrecisionIR,2013-08-22,50.14,Merger/Acquisition,,,7.019849418206708,2564
+47467-45T,Southeastern Trust,2015-11-02,47.1,Buyout/LBO,Add-on,Public to Private,99156-61T,Southeastern Trust,2018-06-01,,Merger/Acquisition,Corporate Divestiture,,2.5790554414784395,942
+10765-18T,Vermont Teddy Bear,2005-09-30,47.0,Buyout/LBO,Public to Private,,126652-42T,Vermont Teddy Bear,2019-07-01,,Merger/Acquisition,,,13.749486652977414,5022
+10606-87T,Mitchell Gold + Bob Williams,2003-04-29,46.0,Buyout/LBO,Public to Private,Management Buyout,245738-44T,Mitchell Gold + Bob Williams,2023-11-15,,Merger/Acquisition,,,20.54757015742642,7505
+16718-05T,HG Holdings (PINX: STLY),1989-01-18,45.3,Buyout/LBO,Secondary Buyout,Public to Private,97631-92T,HG Holdings (PINX: STLY),2018-03-02,18.4,Merger/Acquisition,,,29.117043121149898,10635
+92401-48T,Cyalume Technologies,2017-09-08,45.0,Buyout/LBO,Public to Private,,193350-79T,Cyalume Technologies,2022-05-04,35.0,Merger/Acquisition,,,4.65160848733744,1699
+21783-34T,BWC Terminals,2012-10-10,44.1,Buyout/LBO,Public to Private,,86995-90T,BWC Terminals,2013-12-10,60.0,Merger/Acquisition,,,1.1663244353182751,426
+10493-92T,Reinhold Industries,2007-01-10,43.82,Buyout/LBO,Public to Private,,25795-27T,Reinhold Industries,2013-05-31,133.0,Merger/Acquisition,,,6.3874058863791925,2333
+76778-83T,CPAC,2007-04-13,42.8,Buyout/LBO,Public to Private,,118870-21T,CPAC,2013-09-10,,Merger/Acquisition,,,6.412046543463381,2342
+10009-72T,Cypress Communications,2005-06-30,41.5,Buyout/LBO,Secondary Buyout,Public to Private,17666-20T,Cypress Communications,2011-01-14,,Merger/Acquisition,,,5.541409993155373,2024
+187331-23T,National Security Group,2022-06-30,41.4,Buyout/LBO,Public to Private,,250367-23T,National Security Group,2024-10-01,,Merger/Acquisition,,,2.2559890485968515,824
+10506-79T,Technisource,2002-07-23,40.64,Buyout/LBO,Public to Private,,11182-24T,Technisource,2007-12-03,140.0,Merger/Acquisition,,,5.363449691991787,1959
+16640-20T,EF Johnson Technologies,2010-08-13,40.0,Buyout/LBO,Public to Private,,31331-53T,EF Johnson Technologies,2014-03-24,,Merger/Acquisition,,,3.6112251882272415,1319
+11490-40T,Borders Group,2007-07-09,39.95,Buyout/LBO,Public to Private,,83800-45T,Borders Group,2012-01-01,13.9,Merger/Acquisition,,,4.48186173853525,1637
+11349-82T,Cobalt Group (Washington),2001-11-13,38.47,Buyout/LBO,Public to Private,,16832-62T,Cobalt Group (Washington),2010-08-16,400.0,Merger/Acquisition,,,8.75564681724846,3198
+136285-03T,Trukera Medical,2020-07-09,37.98,Buyout/LBO,Public to Private,,267807-88T,Trukera Medical,2024-07-19,24.0,Merger/Acquisition,,,4.027378507871321,1471
+15911-47T,MTS Medication Technologies,2009-12-22,37.69,Buyout/LBO,Public to Private,,21434-14T,MTS Medication Technologies,2012-05-21,156.0,Merger/Acquisition,,,2.412046543463381,881
+38333-98T,Dialogic,2014-11-24,35.3,Buyout/LBO,Secondary Buyout,Public to Private,128980-36T,Dialogic,2019-12-31,48.9,Merger/Acquisition,,,5.100616016427105,1863
+10365-13T,Warrantech,2007-01-31,35.0,Buyout/LBO,Public to Private,,70208-29T,Warrantech,2010-08-26,10.5,Merger/Acquisition,,,3.567419575633128,1303
+11246-95T,Personnel Management,1998-08-31,34.7,Buyout/LBO,Public to Private,,11247-04T,Personnel Management,2008-04-30,17.0,Merger/Acquisition,,,9.664613278576317,3530
+10720-81T,Viziqor Solutions,2004-10-19,33.4,Buyout/LBO,Public to Private,,10916-38T,Viziqor Solutions,2005-12-07,2.0,Merger/Acquisition,,,1.1334702258726899,414
+15713-65T,Convey Health Solutions,2009-07-23,33.0,Buyout/LBO,Public to Private,,172644-67T,Convey Health Solutions,2021-06-16,186.67,IPO,,,11.898699520876113,4346
+11489-68T,Peerless Industrial Group,1997-05-16,31.0,Buyout/LBO,Public to Private,,44483-95T,Peerless Industrial Group,2014-08-20,120.0,Merger/Acquisition,,,17.2621492128679,6305
+44079-85T,ProBuild,1997-03-26,30.16,Buyout/LBO,Public to Private,,47532-34T,ProBuild,2015-07-31,1630.0,Merger/Acquisition,,,18.34633812457221,6701
+13617-55T,Consona (MTMS),2003-08-07,30.0,Buyout/LBO,Public to Private,,48791-98T,Consona (MTMS),2012-08-07,,Merger of Equals,,,9.00205338809035,3288
+16882-30T,Max & Erma's Restaurants,2010-09-15,28.0,Buyout/LBO,Add-on,Public to Private,65217-43T,Max & Erma's Restaurants,2016-01-25,,Merger/Acquisition,Corporate Divestiture,,5.360711841204655,1958
+11493-91T,Whitehall Jewelers,2006-03-17,27.3,Buyout/LBO,Secondary Buyout,Public to Private,88557-40T,Whitehall Jewelers,2009-09-16,,Merger/Acquisition,Distressed Acquisition,,3.5017111567419574,1279
+10070-11T,Catalyst International,2004-09-08,26.0,Buyout/LBO,Public to Private,,10623-07T,Catalyst International,2007-09-11,,Merger/Acquisition,,,3.0061601642710474,1098
+35932-96T,Jaggaer,2004-04-18,25.3,Buyout/LBO,Public to Private,,35739-37T,Jaggaer,2010-09-24,57.0,IPO,,,6.433949349760438,2350
+107622-19T,Jillian's Entertainment Holdings,1997-07-26,25.0,Buyout/LBO,Public to Private,,107634-79T,Jillian's Entertainment Holdings,2004-05-24,45.74,Merger/Acquisition,Distressed Acquisition,,6.828199863107461,2494
+10693-99T,Wire One Communication (NAS: ACUC),2003-09-24,24.0,Buyout/LBO,Public to Private,,11307-70T,Wire One Communication (NAS: ACUC),2008-06-02,,Merger/Acquisition,,,4.689938398357289,1713
+11706-94T,Sheldahl,2002-10-01,20.0,Buyout/LBO,Public to Private,,11707-03T,Sheldahl,2004-08-16,,Merger/Acquisition,,,1.8754277891854894,685
+60010-21T,OpSec Security,2016-01-12,18.09,Buyout/LBO,Public to Private,,221286-97T,OpSec Security,2024-05-03,269.8,Merger/Acquisition,,,8.306639288158795,3034
+16668-46T,Deltak,1990-05-03,18.0,Buyout/LBO,Public to Private,,49973-23T,Deltak,2011-08-31,31.0,Merger/Acquisition,Corporate Divestiture,,21.32785763175907,7790
+15580-00T,Designatronics,1995-09-01,17.91,Buyout/LBO,Public to Private,,67713-94T,Designatronics,2015-09-01,,Merger/Acquisition,,,20.0,7305
+46443-07T,Pulse Electronics,2015-04-13,17.0,Buyout/LBO,Secondary Buyout,Public to Private,106232-41T,Pulse Electronics,2018-12-01,740.0,Merger/Acquisition,,,3.6358658453114305,1328
+21421-54T,Frederick's of Hollywood,2014-06-04,16.73,Buyout/LBO,Secondary Buyout,Public to Private,113814-64T,Frederick's of Hollywood,2018-11-15,18.2,Merger/Acquisition,Corporate Divestiture,,4.4490075290896645,1625
+81800-29T,Violin Systems,2017-01-30,15.0,Buyout/LBO,Public to Private,,158459-68T,Violin Systems,2020-10-29,,Merger/Acquisition,,,3.7453798767967146,1368
+21084-67T,First Charter Bank,2001-10-02,14.22,Buyout/LBO,Add-on,Public to Private,21790-45T,First Charter Bank,2008-06-09,1100.0,Merger/Acquisition,Corporate Divestiture,,6.685831622176591,2442
+16475-05T,"The Orchard (Movies, Music and Entertainment)",2010-07-29,13.0,Buyout/LBO,Public to Private,,47057-86T,"The Orchard (Movies, Music and Entertainment)",2012-03-05,,Merger/Acquisition,,,1.6016427104722792,585
+104374-54T,HCC Industries,1989-10-24,11.0,Buyout/LBO,Public to Private,Management Buyout,104389-30T,HCC Industries,2005-10-10,162.0,Merger/Acquisition,Distressed Acquisition,,15.961670088980151,5830
+17494-75T,American Homepatient,2010-10-13,9.1,Buyout/LBO,Public to Private,,59900-14T,American Homepatient,2016-02-02,,Merger/Acquisition,,,5.305954825462012,1938
+74809-45T,Razorfish Global,2003-02-28,8.5,Buyout/LBO,Public to Private,,74809-63T,Razorfish Global,2004-06-27,160.0,Merger/Acquisition,,,1.3278576317590691,485
+23143-15T,UST-Aldetec Group,2004-04-30,8.0,Buyout/LBO,Public to Private,,167758-66T,UST-Aldetec Group,2020-03-01,,Merger/Acquisition,,,15.835728952772074,5784
+10040-59T,Seven Worldwide,2003-08-04,7.78,Buyout/LBO,Public to Private,,10633-33T,Seven Worldwide,2005-01-31,191.0,Merger/Acquisition,,,1.4948665297741273,546
+100919-44T,Arizona Instrument,2000-06-27,7.0,Buyout/LBO,Public to Private,Management Buyout,100920-25T,Arizona Instrument,2018-02-01,38.0,Merger/Acquisition,,,17.598904859685145,6428
+35559-73T,ITA Holdings,2005-12-05,7.0,Buyout/LBO,Public to Private,,36000-64T,ITA Holdings,2014-08-12,171.0,Merger/Acquisition,,,8.684462696783026,3172
+160992-91T,Stein Mart,2020-11-23,6.02,Buyout/LBO,Public to Private,,303042-34T,Stein Mart,2025-07-31,,Merger/Acquisition,,,4.684462696783025,1711
+10644-67T,Monarch Machine Tool,2003-10-08,3.5,Buyout/LBO,Public to Private,,273774-52T,Monarch Machine Tool,2022-07-01,,Merger/Acquisition,,,18.729637234770706,6841
+10327-78T,Lincoln Snacks,2001-10-15,3.07,Buyout/LBO,Public to Private,,10605-88T,Lincoln Snacks,2007-09-05,50.0,Merger/Acquisition,,,5.88911704312115,2151
+22818-88T,Epolin Chemicals,2012-06-13,2.7,Buyout/LBO,Public to Private,,138589-57T,Epolin Chemicals,2020-06-22,,Merger/Acquisition,,,8.02464065708419,2931
+79657-57T,Slyce,2017-01-10,2.11,Buyout/LBO,Public to Private,,159112-09T,Slyce,2020-01-01,,Merger/Acquisition,,,2.973305954825462,1086
+11443-69T,Cape Systems Group,2005-01-13,2.0,Buyout/LBO,Add-on,Public to Private,28478-62T,Cape Systems Group,2013-09-05,,Merger/Acquisition,Corporate Divestiture,,8.643394934976044,3157
+13496-41T,Pameco Corporation,2001-05-29,1.4,Buyout/LBO,Public to Private,,13497-58T,Pameco Corporation,2003-04-23,,Merger/Acquisition,,,1.9000684462696784,694
+76396-78T,Abatix,2012-09-25,,Buyout/LBO,Public to Private,,200305-63T,Abatix,2021-12-01,,Merger/Acquisition,,,9.182751540041068,3354
+11126-62T,Anchor Glass Container,2006-05-01,,Buyout/LBO,Public to Private,,22163-05T,Anchor Glass Container,2012-08-20,880.0,Merger/Acquisition,,,6.30527036276523,2303
+62296-03T,BridgeTower Media,2014-06-10,,Buyout/LBO,Public to Private,,106378-57T,BridgeTower Media,2015-12-31,35.0,Merger/Acquisition,,,1.5578370978781657,569
+17168-77T,BrightSpring Health Services (NAS: BTSG),2010-12-22,,Buyout/LBO,Public to Private,,248608-90T,BrightSpring Health Services (NAS: BTSG),2024-01-26,693.33,IPO,,,13.095140314852841,4783
+10414-90T,Cap Rock Energy,2006-05-17,,Buyout/LBO,Public to Private,,16895-17T,Cap Rock Energy,2010-07-13,221.5,Merger/Acquisition,,,4.15605749486653,1518
+17286-04T,Color Spot Nurseries,2008-08-26,,Buyout/LBO,Public to Private,,156320-11T,Color Spot Nurseries,2018-12-21,,Merger/Acquisition,,,10.318959616700889,3769
+15784-66T,Conning,2009-10-13,,Buyout/LBO,Secondary Buyout,Public to Private,39346-84T,Conning,2015-09-18,240.0,Merger/Acquisition,,,5.930184804928132,2166
+40716-28T,dlhBOWLES,2014-12-23,,Buyout/LBO,Public to Private,Management Buyout,186072-94T,dlhBOWLES,2022-03-01,203.22,Merger/Acquisition,,,7.186858316221766,2625
+16086-61T,DynCorp International,1988-01-01,,Buyout/LBO,Public to Private,Management Buyout,16086-70T,DynCorp International,2003-03-07,950.0,Merger/Acquisition,,,15.178644763860369,5544
+77526-37T,Elevate Textiles,2016-10-24,,Buyout/LBO,Secondary Buyout,Public to Private,283989-34T,Elevate Textiles,2024-11-01,,Merger/Acquisition,,,8.021902806297057,2930
+59604-49T,eMusic.com,2001-01-01,,Buyout/LBO,Add-on,Public to Private,59604-76T,eMusic.com,2015-10-20,26.0,Merger/Acquisition,,,14.798083504449007,5405
+11978-20T,Equitrac,1999-08-06,,Buyout/LBO,Public to Private,Management Buyout,18440-92T,Equitrac,2011-06-15,161.95,Merger/Acquisition,,,11.85763175906913,4331
+55560-61T,ERICO International,2006-12-26,,Buyout/LBO,Public to Private,Management Buyout,55563-22T,ERICO International,2015-09-18,1818.1,Merger/Acquisition,,,8.728268309377139,3188
+121924-72T,Film Finances,2019-08-01,,Buyout/LBO,Public to Private,,295567-66T,Film Finances,2025-01-01,,Merger/Acquisition,,,5.420944558521561,1980
+16756-21T,Frontier Drilling,2004-01-01,,Buyout/LBO,Public to Private,,16756-39T,Frontier Drilling,2010-07-21,2756.09,Merger/Acquisition,,,6.551676933607118,2393
+15575-86T,Galaxy Nutritional Foods,2009-05-28,,Buyout/LBO,Public to Private,Management Buyout,99033-67T,Galaxy Nutritional Foods,2018-01-24,17.8,Merger/Acquisition,,,8.659822039698836,3163
+10713-79T,Global Signal,2002-05-21,,Buyout/LBO,Public to Private,,10713-88T,Global Signal,2004-06-03,126.0,IPO,,,2.0369609856262834,744
+15917-50T,GPS Industries,2009-10-15,,Buyout/LBO,Public to Private,,96510-34T,GPS Industries,2017-10-31,,Merger/Acquisition,,,8.043805612594113,2938
+100595-17T,Horizon Telcom,2018-06-15,,Buyout/LBO,Public to Private,,243962-29T,Horizon Telcom,2024-04-01,416.19,Merger/Acquisition,,,5.796030116358659,2117
+13159-36T,Igloo Products,2001-10-23,,Buyout/LBO,Public to Private,,180246-79T,Igloo Products,2021-10-26,677.0,Merger/Acquisition,,,20.008213552361397,7308
+83153-62T,Insynq,2015-12-28,,Buyout/LBO,Add-on,Public to Private,127770-04T,Insynq,2019-12-04,,Merger/Acquisition,Corporate Divestiture,,3.9342915811088295,1437
+96590-35T,Integrity Music,2004-07-12,,Buyout/LBO,Public to Private,Management Buyout,18646-03T,Integrity Music,2011-06-01,,Merger/Acquisition,,,6.885694729637235,2515
+136997-02T,Ion Media,2007-05-04,,Buyout/LBO,Public to Private,Recapitalization,156634-75T,Ion Media,2021-01-07,2650.0,Merger/Acquisition,,,13.681040383299111,4997
+28041-04T,Kahala Franchising,2013-08-19,,Buyout/LBO,Public to Private,Management Buyout,70659-55T,Kahala Franchising,2016-07-26,310.0,Merger/Acquisition,,,2.9349760438056127,1072
+18722-53T,KCI Holdings,2011-11-04,,Buyout/LBO,Secondary Buyout,Public to Private,118552-06T,KCI Holdings,2019-10-11,4500.0,Merger/Acquisition,,,7.9342915811088295,2898
+16227-37T,Liquent,2009-12-18,,Buyout/LBO,Public to Private,,23494-51T,Liquent,2012-12-21,72.0,Merger/Acquisition,,,3.0088980150581794,1099
+39380-05T,Monkey Rock Group,2013-02-27,,Buyout/LBO,Public to Private,,243271-27T,Monkey Rock Group,2023-10-12,,Merger/Acquisition,,,10.620123203285422,3879
+47318-77T,Neptune Society,2005-05-15,,Buyout/LBO,Public to Private,,47319-58T,Neptune Society,2011-06-03,44.0,Merger/Acquisition,,,6.050650239561944,2210
+10564-39T,NES Rentals Holdings,2004-02-01,,Buyout/LBO,Secondary Buyout,Public to Private,81563-77T,NES Rentals Holdings,2017-04-03,960.0,Merger/Acquisition,,,13.169062286105408,4810
+53612-29T,Nestor Sales,1999-01-01,,Buyout/LBO,Public to Private,,53610-31T,Nestor Sales,2015-07-31,41.8,Merger/Acquisition,,,16.577686516084874,6055
+63207-73T,Oscar Mayer Foods,2000-01-01,,Buyout/LBO,Secondary Buyout,Public to Private,70279-57T,Oscar Mayer Foods,2016-03-01,,Merger/Acquisition,,,16.164271047227928,5904
+22886-47T,PawsPlus,2010-12-01,,Buyout/LBO,Public to Private,,44837-92T,PawsPlus,2014-08-04,,Merger of Equals,,,3.67419575633128,1342
+11315-62T,Piedmont Aviation Component Services,1992-07-01,,Buyout/LBO,Public to Private,Management Buyout,67961-80T,Piedmont Aviation Component Services,2005-05-25,5.5,Merger/Acquisition,Corporate Divestiture,,12.898015058179329,4711
+15780-25T,QPC Lasers,2009-06-01,,Buyout/LBO,Public to Private,,177540-13T,QPC Lasers,2021-06-01,,Merger/Acquisition,,,12.0,4383
+76544-11T,Retail Pro,2009-06-25,,Buyout/LBO,Public to Private,Management Buyout,244317-43T,Retail Pro,2023-11-30,30.9,Merger/Acquisition,,,14.431211498973306,5271
+15749-02T,Scan-Optics,2005-08-15,,Buyout/LBO,Public to Private,,252580-42T,Scan-Optics,2023-07-01,,Merger/Acquisition,,,17.87542778918549,6529
+97715-80T,Seaman's Furniture,1988-01-01,,Buyout/LBO,Public to Private,,97715-53T,Seaman's Furniture,2000-11-20,,Merger/Acquisition,,,12.8870636550308,4707
+97717-06T,Seaman's Furniture,1997-01-01,,Buyout/LBO,Public to Private,,97715-53T,Seaman's Furniture,2000-11-20,,Merger/Acquisition,,,3.885010266940452,1419
+86679-64T,Small World Toys,2009-07-21,,Buyout/LBO,Secondary Buyout,Public to Private,86681-44T,Small World Toys,2013-06-28,,Merger/Acquisition,,,3.9370294318959616,1438
+10832-68T,Suntron,2007-12-13,,Buyout/LBO,Public to Private,,26363-08T,Suntron,2013-06-03,19.33,Merger/Acquisition,,,5.47296372347707,1999
+19061-56T,SymphonyAI Retail CPG,2012-08-07,,Buyout/LBO,Secondary Buyout,Public to Private,133153-57T,SymphonyAI Retail CPG,2018-11-01,,Merger/Acquisition,,,6.234086242299795,2277
+36682-21T,Syratech,1997-01-16,,Buyout/LBO,Public to Private,,83064-07T,Syratech,2006-04-28,52.1,Merger/Acquisition,,,9.27857631759069,3389
+81975-97T,The GNI Group,1998-02-13,,Buyout/LBO,Public to Private,Management Buyout,81972-64T,The GNI Group,2001-01-01,,Merger/Acquisition,Distressed Acquisition,,2.8829568788501025,1053
+67846-96T,Trimax Building Products,2006-04-11,,Buyout/LBO,Public to Private,,67847-50T,Trimax Building Products,2009-04-20,,Merger/Acquisition,,,3.025325119780972,1105
+16256-44T,U.S. Cast Products,2001-01-01,,Buyout/LBO,Public to Private,,301458-61T,U.S. Cast Products,2023-05-01,,Merger/Acquisition,,,22.327173169062284,8155
+15995-44T,Velocity Express,2009-09-29,,Buyout/LBO,Public to Private,,23987-08T,Velocity Express,2013-02-01,22.97,Merger/Acquisition,,,3.3429158110882957,1221
+29585-71T,Warrior Met Coal (NYS: HCC),1987-01-01,,Buyout/LBO,Public to Private,,84812-95T,Warrior Met Coal (NYS: HCC),2017-04-14,316.67,IPO,,,30.28336755646817,11061
+60421-69T,Wundies Industries,1999-06-30,,Buyout/LBO,Public to Private,,60422-59T,Wundies Industries,2000-09-18,30.0,Merger/Acquisition,,,1.2210814510609171,446

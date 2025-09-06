@@ -1,0 +1,94 @@
+[analysis]
+# which column to use as the exit category in all breakdowns
+# options: "Exit_DealType" (default), "Exit_DealType2", "Exit_DealType3", or "combined"
+exit_category = "combined"
+
+
+[data]
+# where your raw export lives
+input_path = "data/raw/pitchbook_export.xlsx"
+
+[p2p_matching]
+# Two separate Excel files:
+seed_file      = "data/raw/public_2_private_all.xlsx"
+universe_file  = "data/raw/pitchbook_export.xlsx"
+
+# Optional sheet names (omit or set to "" to use the first sheet in each file)
+seed_sheet     = ""
+universe_sheet = ""
+
+# Output directory for tables
+outdir = "artifacts/tables"
+
+[datasets]
+pairs_csv     = "artifacts/tables/p2p_seed_pairs.csv"
+unmatched_csv = "artifacts/tables/p2p_unmatched_seed.csv"
+
+[outputs]
+tables_dir = "artifacts/tables"
+plots_dir  = "artifacts/plots"   # (unused here, reserved)
+
+[irr]  # optional: only needed if you want distributions from a universe file
+universe_file  = "data/raw/pitchbook_export.xlsx"  # set to an empty string "" to skip
+universe_sheet = ""                                # "" = first sheet
+
+
+# To detect dividend recaps/distributions in PitchBook:
+recap_labels = [
+  "recapitalization",
+  "leveraged recapitalization",
+  "dividend recap",
+  "dividend recapitalization",
+  "recap"
+]
+recap_regex_synopsis = "(?i)dividend (recap|recapitalization|distribution)|return of capital"
+distribution_amount_col = "Deal Size"  # if your universe uses raw column names; our loader will rename to DealSize
+distribution_scale = 1.0
+min_hold_days = 0
+max_hold_years = 30
+
+
+# where to save cleaned, standardized version
+clean_path = "data/interim/clean.parquet"
+
+[columns]   # map PitchBook labels → internal schema
+company   = "Companies"
+deal_id   = "Deal ID"
+deal_date = "Deal Date"
+dealtype1 = "Deal Type"
+dealtype2 = "Deal Type 2"
+dealtype3 = "Deal Type 3"
+deal_size = "Deal Size"
+investor_fund = "Investor Funds"
+sponsor   = "Investors"
+deal_synopsis = "Deal Synopsis"
+deal_size_status = "Deal Size Status"
+post_valuation = "Post Valuation"
+deal_status = "Deal Status"
+financing_status = "Financing Status"
+business_status  = "Business Status"
+primary_industry = "Primary Industry Code"
+verticals = "Verticals"
+description = "Description"
+hq_location = "HQ Location"
+company_website = "Company Website"
+company_url     = "View Company Online"
+
+[options]
+# tell parser how to treat dates
+date_yearfirst = false
+
+[p2p_matching_resolver]
+min_score = 0.60         # auto-accept if candidate score >= this
+min_hold_days = 90       # ignore exits sooner than this after entry
+max_hold_years = 20      # ignore exits beyond this
+prefer_same_sponsor = true
+dedupe_exit_ids = true    # prevent one Exit_DealID being used by multiple seeds
+override_file = "artifacts/tables/overrides.csv"   # optional manual overrides
+
+[labels.exit_alias]
+"merger/acquisition" = "m&a"
+"sale to strategic"  = "m&a"     # if this ever appears
+"strategic sale"     = "m&a"     # normalize variants
+# keep others unchanged by omission
+

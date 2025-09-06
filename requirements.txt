@@ -1,0 +1,5 @@
+#For this to work, I suggest you add the following requirements
+#pandas
+#pyarrow
+#openpyxl
+#toml
