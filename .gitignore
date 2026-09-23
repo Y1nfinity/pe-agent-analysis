@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.ipynb_checkpoints/
+*.pyo
+*.pyd
+
+# Virtualenvs
+.env
+.venv
+env/
+venv/
+
+# Data & local artifacts (adjust as needed)
+data/
+graphics/
+artifacts/
+outputs/
+output/
+reports/
+scripts.zip
+*.log
+*.tmp
+
+# Generated datasets / charts / reports, wherever they land
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.html
+
+# Test cache
+.pytest_cache/
+
+# ---- PyCharm / JetBrains ----
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
