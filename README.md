@@ -4,7 +4,7 @@ A Python project analyzing private equity exits, take-private (public-to-private
 
 ## `handoff_package/` is the final version of the pipeline
 
-The polished, reproducible analysis lives in [`handoff_package/`](handoff_package/README.md). Everything else in this repo represents earlier work; `handoff_package/` is the final, verified version of the pipeline, kept deliberately narrow: only what's needed to regenerate five specific charts from raw data, with pinned dependencies, numbered pipeline scripts, and a README documenting setup, data lineage, and what was verified against the original outputs. If you're reviewing this project, start there.
+This the polished, reproducible analysis. It lives in [`handoff_package/`](handoff_package/README.md). Everything else in this repo represents earlier work; `handoff_package/` is the final, verified version of the pipeline, it has been simplified down to: only what's needed to regenerate five specific charts from raw data, with pinned dependencies, numbered pipeline scripts, and a README documenting setup, data lineage, and what was verified against the original outputs. If you're reviewing this project, start there.
 
 ## `research_archive/`
 
