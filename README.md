@@ -6,6 +6,7 @@ A Python project analyzing private equity exits and continuation funds.
 - Data cleaning scripts in `tools/`
 - Plotting scripts in `scripts/`
 - Config-driven workflow with `config.toml`
+- A final direct pipeline for the exact graphics/work needed for the project in `handoff_package`
 
 ## Setup
 ```bash
