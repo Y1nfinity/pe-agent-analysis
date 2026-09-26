@@ -10,7 +10,7 @@ Earlier and exploratory work from this project, kept for reference. **The polish
 
 ## Why some analyses exist in 2–3 versions
 
-A few files are genuinely worth reading together rather than dismissing as clutter — they show the debugging process, not just noise:
+These files were me learning about the data. It shows the debugging process:
 
 - **`scripts/scripts_update/entry_exit_linker.py` → `p2p_entry_exit_linker.py` → `p2p_entry_exit_linker_with_chrono.py`**: three attempts at linking take-private entries to their exits. The first over-paired one entry to multiple exits; the second fixed that but initially looked like it dropped still-active (unrealized) deals; the third made that handling explicit. `p2p_entry_exit_linker.py` is the version that actually produced the data used downstream — confirmed against the tracked `data/clean/p2p_linked_master.csv` output during the `handoff_package/` build.
 - **`analysis_exitcohort.py` vs. `analysis_exitcohort_weightedbydollar.py`**: the same exit-composition analysis, first by deal count, then by dollar value — a deliberate second cut at the question, not a duplicate.
